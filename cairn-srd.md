@@ -17,56 +17,56 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    Зміст
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+## Огляд
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** створювалася базуючись на наступних засадах:
 
-### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+## Нейтральність
+Роль Наглядача полягає в тому, щоб чітко зобразити правила, ситуації, NPC та розповідь, діючи при цьому як нейтральний арбітр.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Безкласовість
+Роль або навички персонажа не обмежуються одним класом. Замість цього, спорядження, яке він носить, і його досвід визначають його спеціалізацію.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Смерть
+Персонажі можуть бути сильними, але вони також вразливі до шкоди в різних її проявах. Смерть завжди підстерігає за рогом, але вона ніколи не буває випадковою або без попередження.
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### Наративність
+Кістки не завжди відображають складність перешкоди або її результат. Замість цього, успіх і невдача визначаються Наглядачем в діалозі з гравцями на основі елементів внутрішнього світу.
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Розвиток
+Персонажі змінюються завдяки просуванню по світу, набуваючи нових навичок і здібностей, виживаючи в небезпечних подіях і долаючи перешкоди.
 
-### Player Choice
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Вибір гравця
+Гравці завжди повинні розуміти причини зробленого ними вибору, а інформація про потенційні ризики повинна надаватися вільно і часто.
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Принципи
+І Наглядач і гравці керуються певними принципами, що допомагають формувати особливий ігровий досвід, що визначається критичним мисленням, дослідженням та глибокою наративністю.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### Спільні цілі
+Гравці довіряють один одному, щоб взаємодіяти з оточенням, цілями їх персонажів і завданнями групи. Тому група, як правило, працює разом для досягнення спільної мети, як команда.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+## Принципи для Наглядача
+### Інформація
+- Надавайте корисну інформацію про ігровий світ по мірі того, як персонажі досліджують його.
+- Гравцям не треба кидати кістки, щоб дізнатися про обставини в яких вони знаходяться.
+- Будьте прямолінійним і корисним коли відповідаєте на їхні запитання.
+- Відповідайте чесно, постійно описуйте, і завжди давайте їм знати, що вони можуть продовжувати задавати питання
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Складність
+- Опирайтеся на контекст та реалізм, а не на цифри та механіки.
+- Якщо іноді гравці хочуть зробити, щось, що явно неможливо, то жоден результат кидку не дозволить їм цього зробити.
+- Те, що гравець описує і як використовує ситуацію має сенс? Дозвольте цьому бути.
+- РятКидки покривають велику кількість невизначених ситуацій і часто це все, що необхідно для ризикових дій. 
 
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
