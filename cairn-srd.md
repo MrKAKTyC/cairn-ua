@@ -140,18 +140,18 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 [на початок](#index)
 <p></p>
 
-## Character Creation
+## Створення персонажа
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Ім'я, Походження та Риси
+По-перше, оберіть самостійно, або кидком ім'я свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#name--background-d20). Походження ПГ вказує на його потенційні знання та навички.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Потім, киньте кістки для визначення інших рис персонажа **риси** (зовнішність, мова, манери, переконання, репутація, і т.д.) з таблиці [**рис персонажа**](#character-traits-d10).
 
-Finally, roll for their **age** (2d20+10).
+Нарешті, визначте його **вік** (2к20+10).
 
-#### Ability Scores
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### Показники здібностей
+Персонажі гравців (ПГ) мають всього три здібності:  
+**Сила (СИЛ)**, **Спритність (СПР)**, та **Сила волі (ВОЛ)**. Створюючи ПГ, гравець має кинути 3к6 для кожного показника здібностей в цьому порядку. Потім ви може поміняти місця любі два результати.
 
 <details markdown="block">
   <summary>
