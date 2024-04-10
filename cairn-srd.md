@@ -604,31 +604,31 @@ nav_order: 2
 [на початок](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Правила
+### Здібності
+Кожна з трьох **здібностей** використовується за різних обставин (див. **РятКидки** нижче).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Сила (STR)**: Використовується для РятКидків, що вимагають фізичної сили, наприклад, підняття воріт, згинання прутів, протистояння отруті тощо.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Спритність (DEX)**: Використовується для РятКидків, що вимагають координації, швидкості та рефлексів, таких як ухилення, лазіння, підкрадання, балансування і т.д.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Сила волі (WIL)**: Використовується для РятКидків, щоб переконати, обдурити, допитати, залякати, зачарувати, спровокувати, маніпулювати заклинаннями тощо.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### Рятівні кидки
+РятКидки - це кидок, щоб уникнути поганих наслідків ризикованих рішень та обставин. ПГ кидає к20 на відповідний показник здібності. Якщо результат дорівнює або менший за цей показник, то вони проходять перевірку. В іншому випадку, вони зазнають поразки. 1 - це завжди успіх, а 20 - це завжди провал.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Беа зустрічає групу добре озброєних гоблінів, які стоять на варті перед входом до тунелю. ЇЇ гравець ретельно прокладає маршрут, розуміючи, що з її 13 DEX найкращим варіантом буде прокрастися повз охоронців. Вона кидає d20, і в результаті випадає 10 - успіх!_
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### Зцілення
+Відпочинок на кілька хвилин і пиття води відновлює втрачені HP(Hit protection), але залишає групу вразливою. Втрата здібностей (див. **Критичні ушкодження**) зазвичай може бути відновлена за допомогою тижневого відпочинку під керівництвом цілителя або іншого відповідного способу. Деякі з цих послуг є безкоштовними, в той час як магічні або більш ефективні засоби відновлення можуть бути платними.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Виснаження та втома
+ПГ стає **виснаженим** коли позбавлений життєво важливих потреб (наприклад, їжі або відпочинку), і не може відновити HP або показники здібностей. Кожен, хто не задовольняв свої  потреби більше доби, додає до свого інвентарю **Втому**, по одній за кожен день. Кожна втома займає один слот і триває до тих пір, поки він не зможе відновити сили (наприклад, відпочити всю ніч у безпечному місці). ПГ також можуть отримувати втому, **виконуючи заклинання** або через події в сюжеті.
 
 ### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
