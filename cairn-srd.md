@@ -143,9 +143,9 @@ nav_order: 2
 ## Створення персонажа
 
 #### Ім'я, Походження та Риси
-По-перше, оберіть самостійно, або кидком для свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#name--background-d20). Походження ПГ вказує на його потенційні знання та навички.
+По-перше, оберіть самостійно, або кидком для свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#імя-та-походження-к20). Походження ПГ вказує на його потенційні знання та навички.
 
-Потім, киньте кістки для визначення інших **рис** (зовнішність, вимова, манери, переконання, репутація, і т.д.) персонажа з таблиці [**рис персонажа**](#character-traits-d10).
+Потім, киньте кістки для визначення інших **рис** (зовнішність, вимова, манери, переконання, репутація, і т.д.) персонажа з таблиці [**рис персонажа**](#риси-персонажів-к10).
 
 Нарешті, визначте його **вік** (2к20+10).
 
@@ -180,11 +180,11 @@ nav_order: 2
 - Смолоскип (один слот)
 - 3к6 золотих монет
 
-Киньте по кістку по одному разу на кожну з таблиць **Стартове спорядження**, щоб визначити броню, зброю, інструменти та спорядження вашого ПГ. Якщо вказано, киньте по таблиці [**Заклинання**](#spellbooks-d100) 1к100 (або киньте 2к10, використовуючи одну кістку як одиниці, а іншу як десятки). Виберіть лише один предмет для кожного результату.
+Киньте по кістку по одному разу на кожну з таблиць **Стартове спорядження**, щоб визначити броню, зброю, інструменти та спорядження вашого ПГ. Якщо вказано, киньте по таблиці [**Заклинання**](#книга-заклинань-к100) 1к100 (або киньте 2к10, використовуючи одну кістку як одиниці, а іншу як десятки). Виберіть лише один предмет для кожного результату.
 
 Дивіться **Список спорядження** для відповідної броні, пошкоджень та значень слотів. Невеликі предмети іноді можуть бути об'єднані в один слот.
 
-Якщо ви хочете щось ближче до традиційних класів, зверніться до списку [**Опціональні набори спорядження**](#optional-gear-packages).
+Якщо ви хочете щось ближче до традиційних класів, зверніться до списку [**Опціональні набори спорядження**](#опціональні-набори-спорядження).
 
 <p></p>
 
@@ -647,7 +647,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#створення-персонажа) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
