@@ -68,76 +68,76 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 - Те, що гравець описує і як використовує ситуацію має сенс? Дозвольте цьому бути.
 - РятКидки покривають велику кількість невизначених ситуацій і часто це все, що необхідно для ризикових дій. 
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### Підготовка
+- Ігровий світ оргінічний, гнучкий, та випадковий. Він інтуїтивно зрозумілий та робить різкі повороти.
+- Використовуйте таблиці та генератори для розвитку ситуацій, не історії сюжети.
+- NPC пам'ятають, що гравці сказали і зробили, і те як вони вплинули на світ вцілому.
+- NPC не хочуть помирати. Вплетіть їхні інтереси та бажання жити в їх особистість.
 
-### Narrative Focus
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Фокус на наративність
+- Важливим є захоплюючий досвід гри, а не математика, або здібності персонажів. Дайте персонажам тренерів пр користуванню зброєю, та персональні квести, щоб сприяти  їх розвитку та спеціалізації.
+- Звертайте увагу на те, що треба, та чого хочуть ваші гравці, і дайте їм реалістичні можливості для досягнення цього, на їх шляху.
+- Клинок біля вашого горла - уб'є вас, не дивлячись на всю вашу дорого броню та вражаючі тренування.
 
-### Danger
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+### Небезпека
+- Ігровий світ генерує реальні ризики завдати болю, та вбити персонажів гравців.
+- Повідомляйте персонажів про серйозну небезпеку коли вона присутня. Чим небезпечніше, тим більш явно.
+- Розташовуйте пастки на видному місці, та давайте вашим гравцям час на знаходження рішень.
+- Дайте гравцям можливості для вирішення проблем, та взаємодії зі світом.
 
-### Treasure
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### Скарби
+- Скарби є специфічними для середовища, де вони були знайдені. Вони розповідають історію.
+- Скарби дуже цінні, майже завжди громіздкі і рідко бувають корисними, окрім як своєю вартістю та престижем.
+- Реліквії - не скарби, хоча вони і є корисними та цікавими.
+- Використовуйте скарби щоб заманити гравців до екзотичних місць, що знаходяться під захистом страшних ворогів.
 
-### Choice
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### Вибір
+- Дайте гравцям чіткий вибір, щоб наблизити їх до вирішення, коли ситуація затягується.
+- Використовуйте двійкові "Тож, А чи Б?" коли їхні наміри нечіткі.
+- Працюйте разом використовуючи цей метод обговорення, щоб підтримувати розвиток гри.
+- Переконайтеся, що дії персонажів гравців залишать свій слід в ігровому світі.
 
-### Die of Fate
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Кістка долі
+- Час від часу ви хотітимете додати елемент випадковості (н.п. погода, унікальні знання персонажів, тощо).
+- В таких ситуаціях киньте 1к6. Результат 4 або більше - буде означати більш сприятливі умови для гравців.
+- Результат 3 або менше - буде означати лиху вдачу для персонажів гравців, або їхніх союзників.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Principles for Players
+## Принципи для гравців
 ### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- Атрибути та пов'язані з ними Ряткидки не визначають вашого персонажа. Вони є інструментами.
+- Не запитуйте лише про те, що б зробив ваш персонаж, запитуйте, що б зробили ви.
+- Проявляйте творчість, використовуючи свою інтуїцію, предмети та зв'язки.
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Командна робота
+- Шукайте консенсусу з іншими гравцями, перш ніж рухатися вперед.
+- Залишайтеся на одній сторінці щодо цілей та обмежень, поважайте один одного і досягайте більшого в групі, ніж поодинці.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Дослідження
+- Ставити запитання і слухати деталі корисніше, ніж будь-яка характеристика, предмет чи навичка, якими ви володієте.
+- Сприймайте описи Спостерігача без підозр, але і не соромтеся шукати додаткову інформацію.
+- Єдиного правильного шляху вперед не існує.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Спілкування
+- Ставтеся до NPC як до реальних людей, покладайтеся на свою цікавість, щоб безпечно отримати інформацію та вирішувати проблеми.
+- Ви побачите, що більшість людей цікаві і захочуть все обговорити, перш ніж вдаватися до насильства.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Обережність
+- Бій - це вибір, який рідко буває мудрим; подумайте, чи є насильство найкращим способом досягнення ваших цілей.
+- Намагайтеся схилити шанси на свою користь і відступити, коли ситуація здається несприятливою.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Планування
+- Подумайте, як уникнути перешкод, використовуючи розвідку, хитрість і пошук фактів.
+- Проведіть невелике дослідження і розпитайте оточення про свої цілі.
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Амбіції
+- Ставте цілі і використовуйте все, що у вас є, щоб зробити кроки вперед.
+- Нічого не очікуйте. Заробляйте свою репутацію самі.
+- Не зупиняйтеся на досягнутому і грайте, щоб побачити, що з цього вийде.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
 ## Character Creation
