@@ -9,11 +9,11 @@ nav_order: 2
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** розповсюджується по ліцензії [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Ознайомтеся з [репозиторієм](https://github.com/yochaigal/cairn) або завантажте гру в інших [форматах](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (включаючи Word, Affinity, Google Docs тощо).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** це пригодницька гра для одного ведучого (**Наглядача**) та щонайменше одного гравця.
+Гравці діють як загартовані шукачі пригод, які досліджують темний і таємничий ліс, наповнений дивними народами, захованими скарбами і невимовними чудовиськами.
 
 <details close markdown="block">
   <summary id="index">
@@ -28,7 +28,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 **Cairn** створювалася базуючись на наступних засадах:
 
-## Нейтральність
+### Нейтральність
 Роль Наглядача полягає в тому, щоб чітко зобразити правила, ситуації, NPC та розповідь, діючи при цьому як нейтральний арбітр.
 
 ### Безкласовість
@@ -106,7 +106,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 <p></p>
 
 ## Принципи для гравців
-### Agency
+### Вплив на оповідь
 - Атрибути та пов'язані з ними Ряткидки не визначають вашого персонажа. Вони є інструментами.
 - Не запитуйте лише про те, що б зробив ваш персонаж, запитуйте, що б зробили ви.
 - Проявляйте творчість, використовуючи свою інтуїцію, предмети та зв'язки.
@@ -143,53 +143,54 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 ## Створення персонажа
 
 #### Ім'я, Походження та Риси
-По-перше, оберіть самостійно, або кидком ім'я свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#name--background-d20). Походження ПГ вказує на його потенційні знання та навички.
+По-перше, оберіть самостійно, або кидком для свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#name--background-d20). Походження ПГ вказує на його потенційні знання та навички.
 
-Потім, киньте кістки для визначення інших рис персонажа **риси** (зовнішність, мова, манери, переконання, репутація, і т.д.) з таблиці [**рис персонажа**](#character-traits-d10).
+Потім, киньте кістки для визначення інших **рис** (зовнішність, вимова, манери, переконання, репутація, і т.д.) персонажа з таблиці [**рис персонажа**](#character-traits-d10).
 
 Нарешті, визначте його **вік** (2к20+10).
 
 #### Показники здібностей
 Персонажі гравців (ПГ) мають всього три здібності:  
-**Сила (СИЛ)**, **Спритність (СПР)**, та **Сила волі (ВОЛ)**. Створюючи ПГ, гравець має кинути 3к6 для кожного показника здібностей в цьому порядку. Потім ви може поміняти місця любі два результати.
+**Сила (STR)**, **Спритність (DEX)**, та **Сила волі (WIL)**. Створюючи ПГ, гравець має кинути 3к6 для кожного показника здібностей в такому порядку. Потім ви може поміняти місця любі два результати.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+  Інес кидає кістки на **STR** свого персонажа, в результаті чого отримує **2**, **4** і **6**, разом **12**. Наступні два кидки здібностей дають **9** для **DEX** і **13** для **WIL**. Вона вирішує поміняти місцями **12** і **9**, щоб отримати персонажа з **9 STR**, **12 DEX** і **13** **WIL**.
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Захист від ударів
+Киньте 1d6, щоб визначити початковий **Захист від ударів** (HP) вашого персонажа, який відображає його здатність уникати пошкоджень у бою. HP не вказує на здоров'я чи стійкість; він також не втрачається на тривалий період часу (див. **Зцілення**). Якщо атака опускає HP персонажа рівно до 0, гравець повинен кинути кістки за таблицею [**Шрами**](/cairn-srd#scars-1).
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+#### Інвентар
+Персонажі мають загалом 10 слотів для інвентарю: рюкзак з шістьма слотами, по одному слоту для кожної руки і два слоти для верхньої частини тіла (наприклад, на поясі, грудях або голові). Рюкзак також може використовуватися як спальний мішок, але тільки після того, як з нього буде витягнутий весь вміст.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+Більшість речей займають один слот, а дрібні предмети можна скласти разом. Слоти є абстрактними і можуть бути перерозподілені на розсуд Спостерігача.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+**Громіздкі** речі займають два слоти, і їх зазвичай можна нести двома руками, або можуть бути незручними для перенесення. Будь-хто, хто несе повний інвентар (тобто заповнює всі 10 слотів), має 0 HP.
 
-#### Starting Gear
-All PCs begin with:
+ПГ не може нести більше предметів, ніж дозволяє його інвентар. Візки (які потрібно тягнути обома руками), коні або мули можуть збільшити інвентар. **Найманцям** також можна платити за перевезення спорядження.
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+#### Стартове спорядження
+Всі ПГ починають з:
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+- Пайок на три дня (один слот)
+- Смолоскип (один слот)
+- 3к6 золотих монет
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Киньте по кістку по одному разу на кожну з таблиць **Стартове спорядження**, щоб визначити броню, зброю, інструменти та спорядження вашого ПГ. Якщо вказано, киньте по таблиці [**Заклинання**](#spellbooks-d100) 1к100 (або киньте 2к10, використовуючи одну кістку як одиниці, а іншу як десятки). Виберіть лише один предмет для кожного результату.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Дивіться **Список спорядження** для відповідної броні, пошкоджень та значень слотів. Невеликі предмети іноді можуть бути об'єднані в один слот.
+
+Якщо ви хочете щось ближче до традиційних класів, зверніться до списку [**Опціональні набори спорядження**](#optional-gear-packages).
 
 <p></p>
 
-## Name & Background (d20)
+## Ім'я та Походження (к20)
 
-#### Female Names
+#### Жіночі імена
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -199,7 +200,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
+#### Чоловічі імена
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -209,7 +210,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Прізвища
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -219,185 +220,185 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Походження
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|1           |Алхімік  |6          |Клірик          |11        |Чарівник |16    |Виконавець |
+|2           |Коваль   |7          |Азартний гравець|12        |Найманець|17    |Кишеньковий злодій|
+|3           |Грабіжник|8          |Копач могил     |13        |Купець   |18    |Контрабандист  |
+|4           |М'ясник  |9          |Травник         |14        |Шахтар   |19    |Прислуга   |
+|5           |Столяр   |10         |Мисливець       |15        |Злочинець|20    |Рейнджер    |
 
 <p></p>
 
-## Character Traits (d10)
+## Риси персонажів (к10)
 
-#### Physique
+#### Статура
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|   |              |    |             |
+| - | ------------ | -- | ----------- |
+| 1 | Атлетичний   | 6  | Худорлявий  |
+| 2 | Мускулистий  | 7  | Низькорослий|
+| 3 | В'ялий       | 8  | Ставний     |
+| 4 | Довготелесий | 9  | Кремезний   |
+| 5 | Грубий       | 10 | Високий     |
 
-#### Skin
+#### Шкіра
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+|      |             |      |            |
+| ---- | ----------  | ---- | ---------  |
+| 1    | Родимки     | 6    | округла    |
+| 2    | Темна       | 7    | М'яка      |
+| 3    | Розтягнута  | 8    | Засмагла   |
+| 4    | Поцяткована | 9    | Татуйована |
+| 5    | Рожева      | 10   | Обвітрена  |
 
-#### Hair
+#### Волосся
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | Лисий    | 6    | Довге      |
+| 2    | Заплетене | 7    | Розкішне |
+| 3    | Кучеряве   | 8    | Жирне      |
+| 4    | Брудне  | 9    | Хвилясте      |
+| 5    | Кучеряве  | 10   | Рідке     |
 
-#### Face
+#### Обличчя
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | Кістляве      | 6    | Ідеальне  |
+| 2    | Розбите    | 7    | Щуроподібне |
+| 3    | Скулисте  | 8    | Гостре    |
+| 4    | Витягнуте | 9    | Квадратне   |
+| 5    | Бліде      | 10   | Запале   |
 
-#### Speech
+#### Вимова
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | Прямолінійна   | 6    | Хрипляча   |
+| 2      | Гучна | 7    | Точна    |
+| 3      | Загадкова | 8    | Писклява    |
+| 4      | Дзижчлива | 9    | Заїкання |
+| 5      | Формальна  | 10   | Шепотіння   |
 
-#### Clothing
+#### Одяг
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Вінтажний | 6    | Пошарпаний |
+| 2        | Кривавий  | 7    | Непривабливий |
+| 3        | Елегантний | 8    | Ліврея |
+| 4        | Засмальцьований  | 9    | Протухла |
+| 5        | Іноземний | 10   | Забруднений |
 
-#### Virtue
+#### Чеснота
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | Амбітний   | 6    | Чесний |
+| 2      | Обережний    | 7    | Скромний    |
+| 3      | Сміливий  | 8    | Милосердний  |
+| 4      | Дисциплінований | 9    | Безтурботний    |
+| 5      | Товариський  | 10   | Толерантний  |
 
-#### Vice
+#### Недолік
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+|   |             |    |              |
+| - | ----------- | -- | ------------ |
+| 1 | Агресивний  | 6  | Лінивий      |
+| 2 | Ображений   | 7  | Нервовий     |
+| 3 | Боягузливий | 8  | Грубий       |
+| 4 | Брехливий   | 9  | Марнославний |
+| 5 | Жадібний    | 10 | Мстивий      |
 
-#### Reputation
+#### Репутація
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+|   |              |    |             |
+| - | ------------ | -- | ----------- |
+| 1 | Амбітний     | 6  | Нероба      |
+| 2 | Хам          | 7  | Дивак       |
+| 3 | Небезпечний  | 8  | Відразливий |
+| 4 | Розважальник | 9  | Поважний    |
+| 5 | Чесний       | 10 | Мудрий      |
 
-#### Misfortunes
+#### Нещастя
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+|   |            |      |             |
+| - | ---------- | ---- | ----------- |
+| 1 | Покинутий  | 6    | Ошуканий   |
+| 2 | Залежний   | 7    | Понижений на посаді     |
+| 3 | Шантаж     | 8    | Дискредитований |
+| 4 | Засуджений | 9    | Відреченний    |
+| 5 | Проклятий  | 10   | Вигнаний      |
 
 <p></p>
 
-## Starting Gear (d20)
+## Стартове спорядження (к20)
 
-#### Armor
+#### Броня
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Нічого  | Бригантина | Кольчуга | Лати |
 
-#### Helmets & Shields
+#### Шоломи та щити
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       Нічого        | Шолом | Щит | Шолом та Щит |
 
-#### Weapons
+#### Зброя
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: |------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Кинджал, Дубина, Посох  | Меч, Булава, Сокира  | Лук, Арбалет, Праща  | Алебарда, Бойовий молот, Бойова сокира |
 
-#### Expeditionary Gear
+#### Експедиційне спорядження
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+|      |                              |      |                    |      |                |      |                  |
+| ---- | ---------------------------- | ---- | ------------------ | ---- | -------------- | ---- | ---------------- |
+| 1    | Повітряний міхур             | 6    | Масло для вогню    | 11   | Кайдани        | 16   | Мотузка (25фт)   |
+| 2    | Антитоксин                   | 7    | Гак для захоплення | 12   | Кирка          | 17   | Оберіг від духів |
+| 3    | Візок (+4 слота, громіздкий) | 8    | Великий мішок      | 13   | Жердина (10фт) | 18   | Підзорна труба   |
+| 4    | Ланцюг (10фт)                | 9    | Велика пастка      | 14   | Шків           | 19   | Трутовик         |
+| 5    | Вербова лоза                 | 10   | Відмички           | 15   | Репелент       | 20   | Тоя              |
 
-#### Tools
+#### Інструменти
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+|      |          |      |                |      |                   |      |          |
+| ---- | -------- | ---- | -------------- | ---- | ----------------- | ---- | -------- |
+| 1    | Міхи     | 6    | Каструлі       | 11   | Мастило           | 16   | Сітка    |
+| 2    | Відро    | 7    | Лом            | 12   | Молоток           | 17   | Пила     |
+| 3    | Трибола  | 8    | Дриль (ручний) | 13   | Пісочний годинник | 18   | Герметик |
+| 4    | Крейда   | 9    | Вудочка        | 14   | Напилок по металу | 19   | Лопата   |
+| 5    | Стамеска | 10   | Клей           | 15   | Цвяхи             | 20   | Щипці    |
 
-#### Trinkets
+#### Дрібнички
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+|      |                      |      |                  |      |                 |      |                 |
+| ---- | -------------------- | ---- | ---------------- | ---- | --------------- | ---- | --------------- |
+| 1    | Пляшка               | 6    | Горн             | 11   | Дзеркало        | 16   | Мило            |
+| 2    | Колода карт          | 7    | Пахощі           | 12   | Парфуми         | 17   | Губка           |
+| 3    | Набір кісток         | 8    | Інструмент       | 13   | Перо та чорнило | 18   | Смоляний горщик |
+| 4    | Фарба для обличчя    | 9    | Лінза            | 14   | Мішечок солі    | 19   | Шпагат          |
+| 5    | Фальшиві коштовності | 10   | Мармурові кульки | 15   | Дзвіночок       | 20   | Свисток         |
 
-#### 																		Bonus Item (roll on table indicated)
+#### 																		Бонусний предмет (киньте по вказаній таблиці)
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Інструмент або  Дрібничка | Експедиційне спорядження | Броня або Зброя | Книга заклинань |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Книга заклинань (к100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -429,178 +430,178 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Список спорядження (Ціни в золотих)
 
-#### Armor
+#### Броня
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Щит (+1 Броня)            |10   |
+|Шолом (+1 Броня)            |10   |
+|Гамбезон (+1 Броня)          |15   |
+|Бригантина (1 Броня, громіздка)  |20   |
+|Кольчуга (2 Броня, громіздка)   |40   |
+|Лати (3 Броня, громіздка)       |60   |
 
-#### Weapons
+#### Зброя
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|Кинджал, дубина, серп, посох тощо. (к6 шкоди)            |5    |
+|Спис, меч, булава, сокира, ціпок тощо. (к8 шкоди)           |10   |
+|Алебарда, бойовий молот, довгий меч тощо. (к10 шкоди, громіздка)  |20   |
+|Праща (к4 шкоди)                                          |5    |
+|Лук (к6 шкоди, громіздка)                                     |20   |
+|Арбалет (к8 шкоди, громіздка)                                |30   |
 
-#### Gear & Tools
+#### Спорядження та інструменти
 
 | |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|-----------------------------|-----|-----------------------------------|----------|
+|Повітряний міхур             |5    |Велика пастка                      |20        |
+|Міхи                         |10   |Велика Губка                       |5         |
+|Спальник                     |5    |Лінза                              |10        |
+|Книга                        |50   |Відмички                           |25        |
+|Відро                        |5    |Кайдани                            |10        |
+|Трибола                      |10   |Напилок по металу                  |5         |
+|Візок (+4 слота, громіздкий) |30   |Дзеркало                           |5         |
+|Ланцюг (10ft)                |10   |Мул (+6 слотів, повільний)         |30        |
+|Крейда                       |1    |Сітка                              |10        |
+|Стамеска                     |5    |Сумка з дубленої шкіри             |5         |
+|Каструлі                     |10   |Кирка                              |10        |
+|Лом                          |10   |Шків                               |10        |
+|Дриль (ручний)               |10   |Жердина (10фт)                     |5         |
+|Фарба для обличчя            |10   |Перо та чорнило                    |10        |
+|Масло для вогню              |10   |Пайок (на три дня)                 |10        |
+|Вудочка                      |10   |Мотузка (25фт)                     |5         |
+|Мармурові кульки             |5    |Пила                               |5         |
+|Клей                         |5    |Sack                               |5         |
+|Мастило                      |10   |Лопата                             |5         |
+|Гак для захоплення           |25   |Мило                               |1         |
+|Молоток                      |5    |Шип                                |1         |
+|Свята вода                   |25   |Шиповане взуття                    |5         |
+|Горн                         |10   |Підзорна труба                     |40        |
+|Кінь (+4 слота)              |75   |Смола                              |10        |
+|Пісочний годинник            |50   |Намет (вміщає 2 людей, громіздкий) |20        |
+|Пахощі                       |10   |Факел                              |1         |
+|Драбина (громіздкий, 10фт)   |10   |Віз (+8 слотів, повільний)         |200    |
+|Ліхтар і мастило             |10   |Тоя                                |10        |
 
 <p></p>
 
-## Optional Gear Packages
+## Опціональні набори спорядження
 
-#### Cleric
+#### Клірик
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Бойовий молот (к10, громіздка)           |
+| Кольчуга (2 Броня, громіздка)        |
+| Рукавиці (+1 Броня)              |
+| Заточений клинок (к6)              |
+| Святий символ (_Ward_ раз на день) |
+| Плащ Ордену               |
 
-#### Dowser
+#### Лозохідець
 
-|                                           |
-|-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+|                                                  |
+|--------------------------------------------------|
+|Серп (к6)                                         |
+|Клаптевий дублет (+1 Броня)                       |
+|Вербова лоза                                      |
+|Кам'яне око (_Sense_ якщо знаходить в свіжій воді)|
+|Зношена мапа                                      |
+|Підзорна труба                                    |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### Дварф
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|Колючий корінь (к6)                      |
+|Кольчуга з шишок (1 Броня)               |
+|Шпатель                                  |
+|Банка з лісовими мурахами                |
+|Отруйні гриби                            |
+|Ручний дриль                             |
 
-#### Fighter
+#### Ельф
+
+||
+|-----------------------------------------|
+|Елегантний меч (к8)                      |
+|Рекурсивний лук (d8)                     |
+|Позолочений одяг (1 Броня)               |
+|Книга заклинань (_Charm_ або _Detect Magic_)   |
+|Золота флейта                            |
+|Повітряний міхур                         |
+
+#### Боєць
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Глефа (к10, громіздка)                 |
+|Ятаган (к8)                            |
+|короткий меч (к6)                      |
+|короткий меч (к6)                      |
+|Кисет і люлька                         |
+|Набір гральних кісток                  |
 
-#### Friar
+#### Монах
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|Скіпетр (к6)                   |
+|Оманлива мантія (+1 Броня)     |
+|Кадильниця і свята вода        |
+|Глечик медового вина           |
+|Збірник народних пісень        |
+|Візок (+4 слота, громіздкий)   |
 
-#### Knight
+#### Лицар
 
-|                            |
-| -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+|                                    |
+| ---------------------------------- |
+| Довгий меч (к10 шкоди, громіздкий) |
+| Кольчуга (2 Броня, громіздка)      |
+| Шолом (+1 Броня)                   |
+| Геральдичний накид                 |
+| Кайдани                            |
+| Тонка мотузка                      |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
-
-#### Thief
+#### Знавець магії
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+|Послаблений посох (к8, громіздкий)       |
+|Кинджал (к6)                             |
+|Книга заклинань (випадкове закляття)     |
+|Книга заклинань (випадкове закляття)     |
+|Поношений одяг (приховані кишені)        |
+|Лейкап (2 шт, див. **Реліквії**)         |
 
-#### Ranger
+#### Злодій
+
+||
+|-----------------------------------------|
+|Два кинджала (к6+к6)                     |
+|Куртка з капюшоном (1 Броня)             |
+|Відмички                                 |
+|Трибола                                  |
+|Гак для захоплення                       |
+|Напилок по металу                        |
+
+#### Рейнджер
 
 ||
 |------------------------------------------|
-|Longbow (d8, bulky)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+|Довгий лук (к8, громіздкий)               |
+|Маленька сокира (к6)                      |
+|Шкірянка з підкладкою (1 Броня)           |
+|Велика пастка                             |
+|Бладгаунд &#124; 2 HP, 12 DEX, укус (к6)  |
+|Громовий Ріг                              |
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
 ## Rules
