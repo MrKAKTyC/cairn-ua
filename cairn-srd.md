@@ -630,148 +630,148 @@ nav_order: 2
 ### Виснаження та втома
 ПГ стає **виснаженим** коли позбавлений життєво важливих потреб (наприклад, їжі або відпочинку), і не може відновити HP або показники здібностей. Кожен, хто не задовольняв свої  потреби більше доби, додає до свого інвентарю **Втому**, по одній за кожен день. Кожна втома займає один слот і триває до тих пір, поки він не зможе відновити сили (наприклад, відпочити всю ніч у безпечному місці). ПГ також можуть отримувати втому, **виконуючи заклинання** або через події в сюжеті.
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Броня
+Перед тим, як обчислити пошкодження HP, відніміть значення **Броні** цілі від результату кидків шкоди. Щити та подібні обладунки дають бонус до захисту (наприклад, +1 Броні), але тільки поки цей предмет екіпірований.  
+Ніхто не може мати більше ніж 3 броні.  
+Щити, рукавиці та шоломи можуть надавати додаткові бонуси відповідно до їх використання.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Реакції
+Коли ПГ стикаються з NPC, реакція якого на партію не очевидна, Наглядач може кинути 2к6 і звернутися до наступної таблиці, щоб визначити його настрій:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Ворожий | Насторожений | Зацікавлений | Добрий | Готовий допомогти |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Бойовий дух
+Вороги повинні пройти РятКидок сили волі (WIL), щоб уникнути спроби втечі, коли вони перший раз зазнають втрат, і знову, коли вони втрачають половину своєї чисельності. Деякі групи можуть використовувати показник WIL свого лідера замість власного. Вороги-одинаки повинні робити РятКидок, коли у них залишилося 0 HP. Бойовий дух не застосовується на персонажів гравців.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#створення-персонажа) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Найманці
+Персонажів можуть наймати **найманців** для допомоги в експедиціях. Щоб створити найманця, киньте 3к6 для кожного показника здібностей, потім дайте йому 1к6 HP і просту зброю (к6), потім зробіть кидки по таблиці [**Створення персонажа**] (#створення-персонажа), щоб зробити найманця більш живим. Послуги  найманці коштують від 1 до 3 золотих на день, або частину від любого скарбу, що здобуде партія.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Багатство та скарби
+Найпоширенішою монетою є золотий гріш (gp), який дорівнює 10 срібним (sp) і 100 мідним (cp).
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Скарби зазвичай дуже цінні, об'ємні і рідко бувають корисним окрім як своєю вартістю. Вони можуть бути приманкою, що веде персонажів в екзотичні і навіть небезпечні місця, що часто знаходяться під захистом страшних ворогів.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Села, фортеці та порти обмінюються та торгують скарбами, базуючись на цінності та рідкості цього предмету чи товару.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Магія
+**Книга заклинань** містить одне заклинання і займає один слот. Її не можна переписати або створити; натомість їх можна знайти в таких місцях, як гробниці, підземелля та маєтки.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Іноді книги заклинань мають незвичайні властивості або обмеження, наприклад, виділяють неприємний або неземний запах, коли їх відкривають, володіють вродженим інтелектом або читаються тільки при місячному світлі.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Книги заклинань привертають увагу тих, хто шукає в них таємну силу, і вважається небезпечним демонструвати їх відкрито.
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Свитки** схожі на книги заклять, одначе:
+- Вони не займають місце в інвентарі.
+- Вони не викликають втому.
+- Вони зникають після використання.
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### Виконання заклинань
+Будь хто може виконати заклинання тримаючи обома руками книгу заклинань і зачитуючи його текст в голос. Після цього необхідно додати Втому в інвентар, що буде займати 1 слот. Маючи час і перебуваючи в безпеці ПГ може _покращити_ ефект заклинання (наприклад подіяти на декілька цілей, мати сильніший ефект і.т.д.) без якихось додаткових витрат. Якщо персонаж виснажений або в небезпеці, Спостерігач може попросити його пройти перевірку сили волі (WIL), щоб уникнути якихось негативних наслідків від виконання заклинання. Наслідки невдалої спроби виконання заклинання є співмірними з результатом, що очікувався, і можуть призвести до отримання додаткової втоми, знищення книги заклинання, каліцтва, або навіть смерті.
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Реліквії
+**Реліквії** - це предмети пронизані магічними силами або заклинаннями. Їх використання не додає Втому. Реліквії зазвичай мають обмежену кількість використань, та умови їх перезаряджання. Ось декілька прикладів:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Медова застібка** , 3 заряди. Іржаве кільце, яке зменшує носія до 6 дюймів у висоту. Перезарядження: помістіть у чашку з маточним молочком розміром з наперсток.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Соколиний друг** , 1 заряд. Паличка у формі болта, що несе заклинання _Haste_. Перезарядження: вистрілити з арбалета та повернути.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Посох тиші** , 1 заряд. Цей почорнілий жезл тимчасово вимикає всю магію в межах 50 футів. Перезарядження: Осяйте світлом повного місяця.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Лейкап** , Одноразовий. Кожен, хто ковтає цей гриб із зеленими крапками, втрачає Втому, але потім повинен зробити РятКидок сили волі (WIL), щоб уникнути звикання. Невдача робить ПГ виснаженим і нездатним зосередитися, доки він не зможе з’їсти ще один гриб, забезпечуючи лише коротке вгамування його залежності.
 
-## Combat
+## Бій
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Раунди
+Гра зазвичай проходить без сурового підрахунку часу. В бою, або в умовах коли хронометраж може допомогти, використовуйте раунди, щоб відстежувати, що коли трапилося. **Раунд** триває приблизно 10 секунд і складається з ходів.
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Дії
+На своєму ходу, персонажі можуть переміщуватися на дистанцію до 40 футів і зробити ще одну дію. Це може бути виконання заклинання, атака, ще одне переміщення, або інша розумна дія.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Кожного раунду, гравці оголошують, що вони роблять, до того як кидати кістки. Якщо персонаж намагається зробити щось ризикове, то Наглядач може попросити зробити необхідний РятКидок гравця або NPC.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Ходи
+Наглядач опише найбільш ймовірні дії які виконають NPC та монстри. Перед початком бою всі ПГ мають пройти перевірку спритності (DEX), щоб ходити перед своїм опонентом.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+ _Беатріс випадково наткнулася на сліди масивного лісового троля. Для того, щоб зробити свій хід перед тролем - вона робить перевірку спритності (DEX). Вона її провалює і тому троль атакує першим._
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Атака та Шкода
+Нападник робить кидок кісток шкоди своєї зброї і від результату відіймає показник броні цілі, і потім відіймає залишок від HP опонента. Беззбройна атака завжди наноситься 1к4 шкоди.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<details markdown="block">
+  <summary>
+Приклад
+ </summary>
+ _Лісний троль гарчить, замахуючись своєю дубиною на Беатріс, що має 5HP. Дубина наносить 1к10 шкоди і в Наглядача випадає 4. Беатріс має шкіряну броню, тож віднімаємо 1 від шкоди, і в результаті в неї залишається 2 HP._
+</details>
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+### Декілька Нападників
+Якщо декілька нападників атакують одну ціль, то необхідно кинути всі кістки шкоди і залишити один найбільший результат.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Модифікатори атаки
+Якщо атакувати зі слабкої позиції (наприклад по цілі за укриттям, або маючи зв'язані руки), то атака вважається **ослабленою** і нападник має кидати 1к4 шкоди незважаючи на кістку шкоди зброї.
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Якщо атакувати із сильної позиції (наприклад по безпомічним цілям, або через сміливий маневр), то така атака є **підсиленою**, що дозволяє кинути 1к12 шкоди, замість звичайної кістки.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### Подвійна Зброя
+Якщо нападник тримає дві зброї одночасно - киньте обидві кістки і залиште єдиний, найбільший, результат.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### Вибух
+Атаки з характеристикою **вибух** вражає всі цілі в зазначеній області, і для кожного ураженого персонажа кістки шкоди кидаються окремо. Вибух - це будь-що, від вибухів до потужних розколюючих ударів і падіння метеорита. Якщо ви не впевнені, скільки цілей може бути уражено, киньте відповідну кістку шкоди, щоб отримати результат.
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Критична Шкода
+Пошкодження, яке знижує HP цілі нижче нуля, зменшує силу (STR) цілі на кількість, що залишилася. Після цього вона повинна зробити РятКидок сили (STR), щоб уникнути **критичної шкоди**. Крім того, деякі вороги мають особливі здібності або ефекти, які спрацьовують, коли їхня ціль провалює цей РятКидок.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+Будь-який ПГ, який зазнав критичних пошкоджень, не може робити нічого, окрім як повзти, хапаючись за життя. Якщо йому надати допомогу та відпочинок, він стабілізується. Якщо ж його залишити без лікування, то він помре протягом години.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Втрата Показників Характеристик
+Якщо сила (STR) ПГ зменшується до 0, він помирає. Якщо його спритність (DEX) зменшується до 0, він стає паралізованим. Якщо його сила волі (WIL) зменшується до 0, він втрачає глузд.
+Повна втрата спритності (DEX) і сили волі (WIL) робить персонажа нездатним діяти до тих пір, поки вони не відновляться через тривалий відпочинок або за допомогою надзвичайних засобів.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Шрами
+Коли шкода зменшує HP персонажа рівно до 0, вони іноді змінюються безповоротно. Щоб дізнатися більше, перегляньте таблицю [**Шрамів**](#Шрами).
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+### Непритомність та Смерть
+Коли персонаж помирає, гравець може створити нового персонажа або взяти під контроль найманця. Новий персонаж негайно приєднуються до партії, щоб зменшити час простою.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### Загони
+Великі групи подібних комбатантів, що воюють разом, розглядаються як один **загін**. Коли загін отримує критичні пошкодження, він відступає або значно ослаблюється. Коли його сила досягає 0, він знищується.
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+Атаки на загони поодинці є **ослабленими** (за винятком пошкодження від вибуху).
+Атаки загонів по одиничним цілям є **підсиленими** та завдають вибухової шкоди.
+
+### Відступ
+Втеча з небезпечної ситуації завжди вимагає успішного РятКидка Спритності (DEX), а також безпечного місця для втечі.
+
+### Шрами
+Атака, що зменшує HP персонажа рівно до 0, є унікальною. Подивіться результат у таблиці нижче базуючись на _загальній_ отриманій шкоді:
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 1    | Перманентний шрам: Киньте 1к6 &#124; 1: Шия, 2: Руки, 3: Око, 4: Груди, 5: Ноги, 6: Вухо. Киньте 1к6. Якщо результат перевищує ваше максимальне значення HP, то використайте його, як ваш новий максиму HP. |
+| 2    | Приголомшливий удар: Ви дезорієнтовані і вас трясе. Опишіть, як ви відновлюєте фокус. Киньте 1к6. Якщо результат перевищує ваше максимальне значення HP, то використайте його, як ваш новий максиму HP. |
+| 3    | Відлупцьований: Ударом вас відправили в політ, після якого ви приземлилися прямо на обличчя, а ваше дихання тепер збите. Ви стаєте виснаженим поки не відпочинете декілька годин, Потім киньте 1к6 і додайте отримане значення до свого максимального HP. |
+| 4    | Зламана кінцівка: Киньте 1к6 &#124; 1-2: Нога, 3-4: Рука, 5: Ребро, 6: Череп. Після загоєння, киньте 2к6. Якщо сума перевищує ваше максимальне значення HP, то використайте її, як ваш новий максиму HP. |
+| 5    | Інфікований: Ви страждаєте від важкої, неприємної інфекції. Коли ви її переможете, киньте 2к6. Якщо сума перевищує ваше максимальне значення HP, то використайте її, як ваш новий максиму HP. |
+| 6    | Змістивша голову рана: Киньте 1к6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Киньте 3к6. Якщо сума перевищує ваш максимальний показник здібності, то використайте її, як ваш новий максиму. |
+| 7    | Скалічене підколінне сухожилля: Ви ледве можете рухатися, поки не отримаєте серйозну допомогу і не відпочинете. Після одужання, киньте 3к6. Якщо сума перевищує ваш максимальний показник спритності (DEX), то використайте її, як ваш новий максиму. |
+| 8    | Втрата слуху: Ви нічого не чуєте, доки не отримаєте надзвичайну допомогу. Незважаючи на це, зробіть перевірку сили волі (WIL). Якщо ви пройшли, збільште свій максимальний сили волі (WIL) на 1к4. |
+| 9    | Переосмислення: Якась прихована частина вашої психіки вирвалася на волю. Киньте 3к6. Якщо сума перевищує ваш максимальний показник сили волі (WIL), то використайте її, як ваш новий максиму. |
+| 10   | Розірваний: Частину вас відірвало, роздробило, або вона стала нефункціональною. Наглядач скаже вам яку саме. Потім, пройдіть перевірку сили волі (WIL). Якщо пройшли - збільште свій максимум сили волі (WIL) на 1к6. |
+| 11   | Смертельна рана: Ви виснажені і не можете виконувати дії. Ви помрете через годину якщо не отримаєте лікування. Після відновлення - киньте 2к6. Прийміть результат як ваш новий максимум HP. |
+| 12   | Приречений: Смерть здавалася дуже близькою, але ви якось вижили. Якщо ваш наступний РятКидок проти критичної шкоди буде проваленим - ви помираєте жахливою смертю. Якщо ви проходите успішно, то киньте 3к6. Якщо сума перевищує ваш максимальний HP, то використайте її, як ваш новий максиму HP. |
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Bestiary
+## Бестіарій
 
 **Root Goblin**  
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
@@ -835,7 +835,7 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
 ## 100 Spells
@@ -943,7 +943,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
 | 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
 # Rules Summary
