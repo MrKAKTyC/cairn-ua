@@ -773,67 +773,67 @@ nav_order: 2
 
 ## Бестіарій
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**Кореневий гоблін**  
+4 HP, 8 STR, 14 DEX, 8 WIL, спис (к6)
+- Уникають боют, поки не мають переваги (наприклад переваги в кількості).
+- Охороняють свої награбовані скарби до смерті.
+- Винагорода Книга заклинань; Охочі до обміну.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**Людина в капюшоні**  
+12 HP, 9 STR, 12 DEX, 14 WIL, лей-посох (к8), книга заклять (Оберіть одне: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
+- Вартові лісу; культ, який черпає свою силу з лей-ліній, рунних каменів тощо.
+- Критична шкода: висмоктує частину душі жертви (1к4 WIL шкоди).
 
-**Cobblehounds**  
+**Кам'яні-гончі**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+- Нерухомі конструкти зазвичай використовуються як охоронці великих гробниць або артефактів.
+- Не піддаються звичайним методам переконання, але люблять хорошу кістку.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+**Лісний троль**   
+12 HP, 15 STR, 12 DEX, 7 WIL, пазурі та укус(к8+к8 вибух)
+- Дією може відновити втрачені HP.
+- Критична шкода: з ран мішені починають рости мох і гілочки.
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Крижаний Ельф**  
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, кинджал-бурулька (к6), Книга заклинань (Оберіть одне: _Sleep_, _Teleport_, _Detect Magic_)
+- Красиві, аморальні та довгоживучі.
+- Стійкі до більшості видів магії.
 
-**Boggart**  
+**Домовий**  
 3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+- Дикий, волохатий хитрун, який отримує задоволення від дрібних неприємностей.
+- Понад усе цінує реліквії та блискучі дрібнички, але не бажає обмінювати їх на монети.
+- Домові мають імена, які описують їхню справжню природу. Знаючи їхнє справжнє ім'я, можна контролювати домових.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+### Створення монстрів
+Використовуйте наступний шаблон, щоб змоделювати будь-якого складнішого монстра або NPC:
 
-**Name**  
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+**Ім'я**  
+X HP, X Armor, X STR, X DEX, X WIL, Зброя (кX, особливі речі, якості)
+- Привабливий опис зовнішнього вигляду або поведінки
+- Примха, тактика або особливість, що робить цього NPC унікальним
+- Особливий ефект, або наслідок критичної шкоди
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+**Загальні принципи**  
+Показник характеристик: 3 недостатньо, 6 слабкий, 10 середній, 14 заслуговує на увагу, і 18 легендарний. Налаштуйте за потреби.
+- Дайте пересічним істотам 3 HP, витривалим - 6 HP, а серйозним загрозам - 10+ HP.
+- Використовуйте смак і стиль, щоб допомогти їм виділитися. Гравці легше запам'ятають гуманоїда зі свинячим обличчям, який шукає зниклу вівцю, ніж типового гобліна-лучника.
+- Використовуйте критичну шкоду, щоб привернути увагу до загрози або дивацтва будь-якого агресивного NPC.
+- Пам'ятайте, що HP - це **захист від ударів**, а не очки здоров'я. Це міра стійкості, удачі та кмітливості, а не здоров'я.
 
-**Converting from OSR Games**
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+**Конвертація з OSR Games**
+- Дайте 1 HP за HD для більшості істот.
+- Більшість гуманоїдів мають щонайменше 4HP.
+- **Бойовий дух** також може бути використаний як базовий показник.
 
-Some pointers:
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+Декілька порад:
+- Він добре уникає удару? Додай йому HP.
+- Він поглинає шкоду? Дайте йому броню.
+- Він сильний? Дайте йому високий показник сили (**STR**).
+- Він спритний? Дайте йому високий показник спритності (**DEX**).
+- Він харизматичний? Дайте йому високий показник сили волі (**WIL**).
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+Кістка шкоди приблизно така сама, але атака зі зброєю має наносити щонайменше 1к6 шкоди.
 
 [на початок](#index)
 <p></p>
