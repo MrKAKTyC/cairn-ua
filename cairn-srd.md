@@ -838,110 +838,110 @@ X HP, X Armor, X STR, X DEX, X WIL, Зброя (кX, особливі речі, 
 [на початок](#index)
 <p></p>
 
-## 100 Spells
+## 100 Заклинань
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 1    | [Adhere](#adhere)                       | Об'єкт вкритий надзвичайно липким слизом.                    |
+| 2    | [Anchor](#anchor)                       | З ваших рук проростає міцний дріт, який кріпиться до двох точок у межах 50 футів з кожного боку. |
+| 3    | [Animate Object](#animate-object)       | Об'єкт виконує ваші команди, як тільки може.                 |
+| 4    | [Anthropomorphize](#anthropomorphize)   | Тварина на один день набуває людського інтелекту або людської зовнішності. |
+| 5    | [Arcane Eye](#arcane-eye)               | Ви можете бачити через чарівне левітуюче око, яке літає навколо за вашою командою. |
+| 6    | [Astral Prison](#astral-prison)         | Об'єкт застигає в часі та просторі всередині невразливої кристалічної оболонки. |
+| 7    | [Attract](#attract)                     | Два об'єкти починають притягуватися немов сильні магніти один до одного, коли знаходяться в межах 10 футів один від одного. |
+| 8    | [Auditory Illusion](#auditory-illusion) | Ви створюєте ілюзорні звуки, які, здається, виходять з місця, що ви оберете. |
+| 9    | [Babble](#babble)                       | Істота повинна голосно і чітко повторювати все, що ви думаєте. Інакше вона німа. |
+| 10   | [Bait Flower](#bait-flower)             | З землі проростає рослина, яка випромінює запах гниючої плоті. |
+| 11   | [Beast Form](#beast-form)               | Ти і твоє майно перетворюєтесь на звичайну тварину.            |
+| 12   | [Befuddle](#befuddle)                   | Обрана вами істота не здатна формувати нові короткочасні спогади протягом дії заклинання. |
+| 13   | [Body Swap](#body-swap)                 | Ти міняєшся тілами з істотою, до якої торкаєшся. Якщо одне тіло помирає, помирає й інше. |
+| 14   | [Charm](#charm)                         | Істота, яку ви бачите, ставиться до вас як до друга.           |
+| 15   | [Command](#command)                     | Ціль підкоряється одній команді з трьох слів, яка не завдає їй шкоди. |
+| 16   | [Comprehend](#comprehend)               | Ви починаєте вільно говорити всіма мовами на короткий час.     |
+| 17   | [Cone of Foam](#cone-of-foam)           | Щільна піна бризкає з вашої руки, покриваючи ціль.             |
+| 18   | [Control Plants](#control-plants)       | Рослини та дерева поблизу підкоряються вам і отримують можливість рухатися в повільному темпі. |
+| 19   | [Control Weather](#control-weather)     | Ви можете змінювати тип погоди за власним бажанням, але ніяк інакше її не контролюєте. |
+| 20   | [Cure Wounds](#cure-wounds)             | Відновіть 1к4 сили (STR) за день істоті, до якої ви можете доторкнутися.         |
+| 21   | [Deafen](#deafen)                       | Всі істоти поблизу втрачають слух.                             |
+| 22   | [Detect Magic](#detect-magic)           | Ви можете бачити або чути магічні аури поблизу.                |
+| 23   | [Disassemble](#disassemble)             | Будь-яка частина вашого тіла може бути від'єднана і знову приєднана за бажанням, не завдаючи болю і не пошкоджуючи її. Ви все ще можете ними керувати. |
+| 24   | [Disguise](#disguise)                   | Ви можете змінювати зовнішність одного персонажа за власним бажанням, допоки він залишається гуманоїдом. Спроби дублювати інших персонажів будуть виглядати моторошно. |
+| 25   | [Displace](#displace)                   | Об'єкт здається далі на відстань до 15 футів від свого фактичного положення. |
+| 26   | [Earthquake](#earthquake)               | Земля починає сильно трястися. Споруди можуть зазнати пошкоджень або обвалитися. |
+| 27   | [Elasticity](#elasticity)               | Ваше тіло може розтягуватися до 10 футів.                      |
+| 28   | [Elemental Wall](#elemental-wall)       | Пряма стіна льоду або вогню завдовжки 50 футів і заввишки 10 футів здіймається з землі. |
+| 29   | [Filch](#filch)                         | Видимий предмет телепортується до ваших рук.                   |
+| 30   | [Flare](#flare)                         | Яскрава куля енергії випускає в небо промінь світла, який вказує на ваше місцезнаходження друзям чи ворогам. |
+| 31   | [Fog Cloud](#fog-cloud)                 | Густий туман розходиться від вас.                              |
+| 32   | [Frenzy](#frenzy)                       | Істота неподалік вибухає жагою насильства.                     |
+| 33   | [Gate](#gate)                           | Відкривається портал у випадкову площину.                      |
+| 34   | [Gravity Shift](#gravity-shift)         | Ви можете змінювати напрямок гравітації, але тільки для себе.  |
+| 35   | [Greed](#greed)                         | Істота відчуває непереборне бажання володіти видимим предметом на свій вибір. |
+| 36   | [Haste](#haste)                         | Швидкість пересування збільшується втричі.                     |
+| 37   | [Hatred](#hatred)                       | Істота відчуває глибоку ненависть до іншої істоти або групи і бажає їх знищити. |
+| 38   | [Hear Whispers](#hear-whispers)         | Ви можете чітко чути слабкі звуки.                             |
+| 39   | [Hover](#hover)                         | Об'єкт парить без тертя на висоті 2 футів над землею. Він може утримувати до одного гуманоїда. |
+| 40   | [Hypnotize](#hypnotize)                 | Істота входить у транс і чесно відповість на одне запитання «так» або «ні», яке ви йому задасте. |
+| 41   | [Icy Touch](#icy-touch)                 | Товстий шар льоду, радіусом до 10 футів, розходиться по поверхні, до якої ви торкаєтеся. |
+| 42   | [Identify Owner](#identify-owner)       | Над об'єктом, якого ви торкаєтесь, з'являються літери з іменами власників об'єкта, якщо такі є. |
+| 43   | [Illuminate](#illuminate)               | Плаваюче світло рухається за вашою командою.                   |
+| 44   | [Invisible Tether](#invisible-tether)   | Два об'єкти в межах 10 футів один від одного не можуть бути переміщені на відстань більше 10 футів один від одного. |
+| 45   | [Knock](#knock)                         | Розташований поруч звичайний або магічний замок голосно відмикається.             |
+| 46   | [Leap](#leap)                           | Ви стрибаєте вгору на 10 футів, один раз.                      |
+| 47   | [Liquid Air](#liquid-air)               | Повітря навколо вас стає придатним для плавання.               |
+| 48   | [Magic Dampener](#magic-dampener)       | Ефективність усіх магічних ефектів поблизу зменшується вдвічі. |
+| 49   | [Manse](#manse)                         | Міцний, мебльований котедж з'являється на 12 годин. Ви можете дозволити або заборонити вхід до нього за власним бажанням. |
+| 50   | [Marble Craze](#marble-craze)           | Ваші кишені наповнені кульками, і вони будуть знову наповнюватися кожні 30 секунд. |
+| 51   | [Masquerade](#masquerade)               | Зовнішність і голос персонажа стають ідентичними зовнішності та голосу персонажа, якого ви торкаєтесь. |
+| 52   | [Miniaturize](#miniaturize)             | Істота, до якої ви торкаєтесь, зменшується до розміру миші.    |
+| 53   | [Mirror Image](#mirror-image)           | З'являється ілюзорний дублікат вас самих, який знаходиться під вашим контролем. |
+| 54   | [Mirrorwalk](#mirrorwalk)               | Дзеркало стає воротами до іншого дзеркала, в яке ви сьогодні дивилися. |
+| 55   | [Multiarm](#multiarm)                   | Ви тимчасово отримуєте додаткову руку.                         |
+| 56   | [Night Sphere](#night-sphere)           | Перед вами з'являється сфера темряви шириною 50 футів, що відтворює нічне небо. |
+| 57   | [Objectify](#objectify)                 | Ви стаєте будь-яким неживим предметом розміром від рояля до яблука. |
+| 58   | [Ooze Form](#ooze-form)                 | Ви стаєте живим желе.                                          |
+| 59   | [Pacify](#pacify)                       | Істота поруч з вами відчуває огиду до насильства.              |
+| 60   | [Phobia](#phobia)                       | Істота поблизу лякається об'єкта за вашим вибором.             |
+| 61   | [Pit](#pit)                             | У землі відкривається яма 10 футів завширшки і 10 футів завглибшки.           |
+| 62   | [Primal Surge](#primal-surge)           | Істота швидко еволюціонує в майбутню версію свого виду.        |
+| 63   | [Push/Pull](#push/pull)                 | Об'єкт будь-якого розміру тягнеться прямо до вас або відштовхується прямо від з силою однієї людини. |
+| 64   | [Raise Dead](#raise-dead)               | Скелет повстає з-під землі, щоб служити вам. Він неймовірно тупий і може виконувати лише прості накази. |
+| 65   | [Raise Spirit](#raise-spirit)           | Дух сусіднього трупа з'являється і відповідає на 1 питання.    |
+| 66   | [Read Mind](#read-mind)                 | Ви можете чути поверхневі думки істот, що перебувають поблизу. |
+| 67   | [Repel](#repel)                         | Два об'єкти починають відштовхуються немов сильні магніти один до одного, коли знаходяться в межах 10 футів один від одного. |
+| 68   | [Scry](#scry)                           | Ви можете бачити очима істоти, до якої доторкнулися сьогодні.. |
+| 69   | [Sculpt Elements](#sculpt-elements)     | Неживий матеріал поводиться як глина у ваших руках.            |
+| 70   | [Sense](#sense)                         | Виберіть один вид предмета (ключ, золото, стріла, глечик тощо). Ви можете відчувати найближчий предмет цього виду. |
+| 71   | [Shield](#shield)                       | Істота, до якої ви доторкнулися, отримує захист від звичайних атак на одну хвилину. |
+| 72   | [Shroud](#shroud)                       | Істота, до якої ви торкаєтесь, стає невидимою, допоки вона не ворухнеться.           |
+| 73   | [Shuffle](#shuffle)                     | Дві істоти, яких ви бачите, миттєво міняються місцями.         |
+| 74   | [Sleep](#sleep)                         | Істота, яку ви бачите, впадає в легкий сон.                    |
+| 75   | [Slick](#slick)                         | Всі поверхні в радіусі 30 футів стають надзвичайно слизькими.  |
+| 76   | [Smoke Form](#smoke-form)               | Ваше тіло стає живим димом, який ви можете контролювати.       |
+| 77   | [Sniff](#sniff)                         | Ви можете відчути навіть найслабші нотки запахів.              |
+| 78   | [Snuff](#snuff)                         | Будь-яке джерело звичайного світла, яке ви бачите, миттєво згасає. |
+| 79   | [Sort](#sort)                           | Неживі об'єкти сортуються за заданими вами категоріями.        |
+| 80   | [Spectacle](#spectacle)                 | З’являється явно фальшива, але вражаюча ілюзія на ваш вибір під вашим контролем. Він може бути розміром із палац, рухатися і видавати звук. |
+| 81   | [Spellsaw](#spellsaw)                   | Лезо, що обертається, вилітає з ваших грудей, розчищаючи будь-яку рослинність на своєму шляху. Для всього іншого воно абсолютно безпечне. |
+| 82   | [Spider Climb](#spider-climb)           | Ви можете лазити по поверхнях, як павук.                       |
+| 83   | [Summon Cube](#summon-cube)             | Раз на секунду ви можете викликати або прогнати куб землі шириною 3 фути. Нові кубики повинні кріпитися до землі або до інших кубиків. |
+| 84   | [Swarm](#swarm)                         | Ви стаєте зграєю ворон, щурів або піраній. Вам можуть завдати шкоди лише вибухові атаки. |
+| 85   | [Telekinesis](#telekinesis)             | Ви можете подумки перемістити 1 предмет вагою до 60 фунтів.    |
+| 86   | [Telepathy](#telepathy)                 | Дві істоти можуть чути думки один одного, незалежно від того, як далеко вони знаходяться один від одного. |
+| 87   | [Teleport](#teleport)                   | Об'єкт або людина, яку ви бачите, переміщується з одного місця в інше в радіусі 50 футів. |
+| 88   | [Target Lure](#target-lure)             | Об'єкт, до якого ви доторкнулися, стає ціллю будь-якого найближчого заклинання.  |
+| 89   | [Thicket](#thicket)                     | Зарості дерев і густого чагарнику шириною до 50 футів проростають несподівано. |
+| 90   | [Summon Idol](#summon-idol)             | Різьблена кам'яна статуя розміром з мула піднімається з землі. |
+| 91   | [Time Control](#time-control)           | Час у 50-футовій бульбашці сповільнюється або пришвидшується на 10% протягом 30 секунд. |
+| 92   | [True Sight](#true-sight)               | Ви бачите крізь усі довколишні ілюзії.                         |
+| 93   | [Upwell](#upwell)                       | З'являється джерело морської води.                             |
+| 94   | [Vision](#vision)                       | Ви повністю контролюєте, що істота бачить.                     |
+| 95   | [Visual Illusion](#visual-illusion)     | Німа, нерухома ілюзія, розміром з кімнату з'являється за вашим вибором. |
+| 96   | [Ward](#ward)                           | На землі з'являється сріблясте коло 50 футів у діаметрі. Виберіть один вид, що не може його перетнути. |
+| 97   | [Web](#web)                             | Твої зап'ястя стріляють товстою павутиною.                     |
+| 98   | [Widget](#widget)                       | Перед вами з'являється примітивна версія намальованого інструменту або предмета, яка зникає через короткий проміжок часу. |
+| 99   | [Wizard Mark](#wizard-mark)             | Ваш палець може вистрілити струменем фарби кольору вогню. Ця фарба видима лише вам, і її можна побачити на будь-якій відстані, навіть крізь тверді предмети. |
+| 100  | [X-Ray Vision](#x-ray-vision)           | Ви можете бачити крізь стіни, бруд, одяг тощо.                 |
 
 [на початок](#index)
 <p></p>
