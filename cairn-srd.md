@@ -9,187 +9,188 @@ nav_order: 2
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** розповсюджується по ліцензії [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Ознайомтеся з [репозиторієм](https://github.com/yochaigal/cairn) або завантажте гру в інших [форматах](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (включаючи Word, Affinity, Google Docs тощо).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** це пригодницька гра для одного ведучого (**Наглядача**) та щонайменше одного гравця.
+Гравці діють як загартовані шукачі пригод, які досліджують темний і таємничий ліс, наповнений дивними народами, захованими скарбами і невимовними чудовиськами.
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    Зміст
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+## Огляд
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** створювалася базуючись на наступних засадах:
 
-### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Нейтральність
+Роль Наглядача полягає в тому, щоб чітко зобразити правила, ситуації, NPC та розповідь, діючи при цьому як нейтральний арбітр.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Безкласовість
+Роль або навички персонажа не обмежуються одним класом. Замість цього, спорядження, яке він носить, і його досвід визначають його спеціалізацію.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Смерть
+Персонажі можуть бути сильними, але вони також вразливі до шкоди в різних її проявах. Смерть завжди підстерігає за рогом, але вона ніколи не буває випадковою або без попередження.
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### Наративність
+Кістки не завжди відображають складність перешкоди або її результат. Замість цього, успіх і невдача визначаються Наглядачем в діалозі з гравцями на основі елементів внутрішнього світу.
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Розвиток
+Персонажі змінюються завдяки просуванню по світу, набуваючи нових навичок і здібностей, виживаючи в небезпечних подіях і долаючи перешкоди.
 
-### Player Choice
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Вибір гравця
+Гравці завжди повинні розуміти причини зробленого ними вибору, а інформація про потенційні ризики повинна надаватися вільно і часто.
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Принципи
+І Наглядач і гравці керуються певними принципами, що допомагають формувати особливий ігровий досвід, що визначається критичним мисленням, дослідженням та глибокою наративністю.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### Спільні цілі
+Гравці довіряють один одному, щоб взаємодіяти з оточенням, цілями їх персонажів і завданнями групи. Тому група, як правило, працює разом для досягнення спільної мети, як команда.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+## Принципи для Наглядача
+### Інформація
+- Надавайте корисну інформацію про ігровий світ по мірі того, як персонажі досліджують його.
+- Гравцям не треба кидати кістки, щоб дізнатися про обставини в яких вони знаходяться.
+- Будьте прямолінійним і корисним коли відповідаєте на їхні запитання.
+- Відповідайте чесно, постійно описуйте, і завжди давайте їм знати, що вони можуть продовжувати задавати питання
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Складність
+- Опирайтеся на контекст та реалізм, а не на цифри та механіки.
+- Якщо іноді гравці хочуть зробити, щось, що явно неможливо, то жоден результат кидку не дозволить їм цього зробити.
+- Те, що гравець описує і як використовує ситуацію має сенс? Дозвольте цьому бути.
+- РятКидки покривають велику кількість невизначених ситуацій і часто це все, що необхідно для ризикових дій. 
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### Підготовка
+- Ігровий світ оргінічний, гнучкий, та випадковий. Він інтуїтивно зрозумілий та робить різкі повороти.
+- Використовуйте таблиці та генератори для розвитку ситуацій, не історії сюжети.
+- NPC пам'ятають, що гравці сказали і зробили, і те як вони вплинули на світ вцілому.
+- NPC не хочуть помирати. Вплетіть їхні інтереси та бажання жити в їх особистість.
 
-### Narrative Focus
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Фокус на наративність
+- Важливим є захоплюючий досвід гри, а не математика, або здібності персонажів. Дайте персонажам тренерів пр користуванню зброєю, та персональні квести, щоб сприяти  їх розвитку та спеціалізації.
+- Звертайте увагу на те, що треба, та чого хочуть ваші гравці, і дайте їм реалістичні можливості для досягнення цього, на їх шляху.
+- Клинок біля вашого горла - уб'є вас, не дивлячись на всю вашу дорого броню та вражаючі тренування.
 
-### Danger
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+### Небезпека
+- Ігровий світ генерує реальні ризики завдати болю, та вбити персонажів гравців.
+- Повідомляйте персонажів про серйозну небезпеку коли вона присутня. Чим небезпечніше, тим більш явно.
+- Розташовуйте пастки на видному місці, та давайте вашим гравцям час на знаходження рішень.
+- Дайте гравцям можливості для вирішення проблем, та взаємодії зі світом.
 
-### Treasure
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### Скарби
+- Скарби є специфічними для середовища, де вони були знайдені. Вони розповідають історію.
+- Скарби дуже цінні, майже завжди громіздкі і рідко бувають корисними, окрім як своєю вартістю та престижем.
+- Реліквії - не скарби, хоча вони і є корисними та цікавими.
+- Використовуйте скарби щоб заманити гравців до екзотичних місць, що знаходяться під захистом страшних ворогів.
 
-### Choice
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### Вибір
+- Дайте гравцям чіткий вибір, щоб наблизити їх до вирішення, коли ситуація затягується.
+- Використовуйте двійкові "Тож, А чи Б?" коли їхні наміри нечіткі.
+- Працюйте разом використовуючи цей метод обговорення, щоб підтримувати розвиток гри.
+- Переконайтеся, що дії персонажів гравців залишать свій слід в ігровому світі.
 
-### Die of Fate
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Кістка долі
+- Час від часу ви хотітимете додати елемент випадковості (н.п. погода, унікальні знання персонажів, тощо).
+- В таких ситуаціях киньте 1к6. Результат 4 або більше - буде означати більш сприятливі умови для гравців.
+- Результат 3 або менше - буде означати лиху вдачу для персонажів гравців, або їхніх союзників.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Принципи для гравців
+### Вплив на оповідь
+- Атрибути та пов'язані з ними Ряткидки не визначають вашого персонажа. Вони є інструментами.
+- Не запитуйте лише про те, що б зробив ваш персонаж, запитуйте, що б зробили ви.
+- Проявляйте творчість, використовуючи свою інтуїцію, предмети та зв'язки.
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Командна робота
+- Шукайте консенсусу з іншими гравцями, перш ніж рухатися вперед.
+- Залишайтеся на одній сторінці щодо цілей та обмежень, поважайте один одного і досягайте більшого в групі, ніж поодинці.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Дослідження
+- Ставити запитання і слухати деталі корисніше, ніж будь-яка характеристика, предмет чи навичка, якими ви володієте.
+- Сприймайте описи Спостерігача без підозр, але і не соромтеся шукати додаткову інформацію.
+- Єдиного правильного шляху вперед не існує.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Спілкування
+- Ставтеся до NPC як до реальних людей, покладайтеся на свою цікавість, щоб безпечно отримати інформацію та вирішувати проблеми.
+- Ви побачите, що більшість людей цікаві і захочуть все обговорити, перш ніж вдаватися до насильства.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Обережність
+- Бій - це вибір, який рідко буває мудрим; подумайте, чи є насильство найкращим способом досягнення ваших цілей.
+- Намагайтеся схилити шанси на свою користь і відступити, коли ситуація здається несприятливою.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Планування
+- Подумайте, як уникнути перешкод, використовуючи розвідку, хитрість і пошук фактів.
+- Проведіть невелике дослідження і розпитайте оточення про свої цілі.
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Амбіції
+- Ставте цілі і використовуйте все, що у вас є, щоб зробити кроки вперед.
+- Нічого не очікуйте. Заробляйте свою репутацію самі.
+- Не зупиняйтеся на досягнутому і грайте, щоб побачити, що з цього вийде.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Character Creation
+## Створення персонажа
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Ім'я, Походження та Риси
+По-перше, оберіть самостійно, або кидком для свого ПГ(Персонаж гравця) **ім'я** та **походження** з відповідних [таблиць](#імя-та-походження-к20). Походження ПГ вказує на його потенційні знання та навички.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Потім, киньте кістки для визначення інших **рис** (зовнішність, вимова, манери, переконання, репутація, і т.д.) персонажа з таблиці [**рис персонажа**](#риси-персонажів-к10).
 
-Finally, roll for their **age** (2d20+10).
+Нарешті, визначте його **вік** (2к20+10).
 
-#### Ability Scores
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### Показники здібностей
+Персонажі гравців (ПГ) мають всього три здібності:  
+**Сила (STR)**, **Спритність (DEX)**, та **Сила волі (WIL)**. Створюючи ПГ, гравець має кинути 3к6 для кожного показника здібностей в такому порядку. Потім ви може поміняти місця любі два результати.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+  Інес кидає кістки на **STR** свого персонажа, в результаті чого отримує **2**, **4** і **6**, разом **12**. Наступні два кидки здібностей дають **9** для **DEX** і **13** для **WIL**. Вона вирішує поміняти місцями **12** і **9**, щоб отримати персонажа з **9 STR**, **12 DEX** і **13** **WIL**.
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Захист від ударів
+Киньте 1d6, щоб визначити початковий **Захист від ударів** (HP) вашого персонажа, який відображає його здатність уникати пошкоджень у бою. HP не вказує на здоров'я чи стійкість; він також не втрачається на тривалий період часу (див. **Зцілення**). Якщо атака опускає HP персонажа рівно до 0, гравець повинен кинути кістки за таблицею [**Шрами**](/cairn-srd#scars-1).
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+#### Інвентар
+Персонажі мають загалом 10 слотів для інвентарю: рюкзак з шістьма слотами, по одному слоту для кожної руки і два слоти для верхньої частини тіла (наприклад, на поясі, грудях або голові). Рюкзак також може використовуватися як спальний мішок, але тільки після того, як з нього буде витягнутий весь вміст.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+Більшість речей займають один слот, а дрібні предмети можна скласти разом. Слоти є абстрактними і можуть бути перерозподілені на розсуд Спостерігача.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+**Громіздкі** речі займають два слоти, і їх зазвичай можна нести двома руками, або можуть бути незручними для перенесення. Будь-хто, хто несе повний інвентар (тобто заповнює всі 10 слотів), має 0 HP.
 
-#### Starting Gear
-All PCs begin with:
+ПГ не може нести більше предметів, ніж дозволяє його інвентар. Візки (які потрібно тягнути обома руками), коні або мули можуть збільшити інвентар. **Найманцям** також можна платити за перевезення спорядження.
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+#### Стартове спорядження
+Всі ПГ починають з:
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+- Пайок на три дня (один слот)
+- Смолоскип (один слот)
+- 3к6 золотих монет
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Киньте по кістку по одному разу на кожну з таблиць **Стартове спорядження**, щоб визначити броню, зброю, інструменти та спорядження вашого ПГ. Якщо вказано, киньте по таблиці [**Заклинання**](#книга-заклинань-к100) 1к100 (або киньте 2к10, використовуючи одну кістку як одиниці, а іншу як десятки). Виберіть лише один предмет для кожного результату.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Дивіться **Список спорядження** для відповідної броні, пошкоджень та значень слотів. Невеликі предмети іноді можуть бути об'єднані в один слот.
+
+Якщо ви хочете щось ближче до традиційних класів, зверніться до списку [**Опціональні набори спорядження**](#опціональні-набори-спорядження).
 
 <p></p>
 
-## Name & Background (d20)
+## Ім'я та Походження (к20)
 
-#### Female Names
+#### Жіночі імена
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -199,7 +200,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
+#### Чоловічі імена
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -209,7 +210,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Прізвища
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -219,185 +220,185 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Походження
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|1           |Алхімік  |6          |Клірик          |11        |Чарівник |16    |Виконавець |
+|2           |Коваль   |7          |Азартний гравець|12        |Найманець|17    |Кишеньковий злодій|
+|3           |Грабіжник|8          |Копач могил     |13        |Купець   |18    |Контрабандист  |
+|4           |М'ясник  |9          |Травник         |14        |Шахтар   |19    |Прислуга   |
+|5           |Столяр   |10         |Мисливець       |15        |Злочинець|20    |Рейнджер    |
 
 <p></p>
 
-## Character Traits (d10)
+## Риси персонажів (к10)
 
-#### Physique
+#### Статура
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|   |              |    |             |
+| - | ------------ | -- | ----------- |
+| 1 | Атлетичний   | 6  | Худорлявий  |
+| 2 | Мускулистий  | 7  | Низькорослий|
+| 3 | В'ялий       | 8  | Ставний     |
+| 4 | Довготелесий | 9  | Кремезний   |
+| 5 | Грубий       | 10 | Високий     |
 
-#### Skin
+#### Шкіра
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+|      |             |      |            |
+| ---- | ----------  | ---- | ---------  |
+| 1    | Родимки     | 6    | округла    |
+| 2    | Темна       | 7    | М'яка      |
+| 3    | Розтягнута  | 8    | Засмагла   |
+| 4    | Поцяткована | 9    | Татуйована |
+| 5    | Рожева      | 10   | Обвітрена  |
 
-#### Hair
+#### Волосся
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | Лисий    | 6    | Довге      |
+| 2    | Заплетене | 7    | Розкішне |
+| 3    | Кучеряве   | 8    | Жирне      |
+| 4    | Брудне  | 9    | Хвилясте      |
+| 5    | Кучеряве  | 10   | Рідке     |
 
-#### Face
+#### Обличчя
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | Кістляве      | 6    | Ідеальне  |
+| 2    | Розбите    | 7    | Щуроподібне |
+| 3    | Скулисте  | 8    | Гостре    |
+| 4    | Витягнуте | 9    | Квадратне   |
+| 5    | Бліде      | 10   | Запале   |
 
-#### Speech
+#### Вимова
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | Прямолінійна   | 6    | Хрипляча   |
+| 2      | Гучна | 7    | Точна    |
+| 3      | Загадкова | 8    | Писклява    |
+| 4      | Дзижчлива | 9    | Заїкання |
+| 5      | Формальна  | 10   | Шепотіння   |
 
-#### Clothing
+#### Одяг
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Вінтажний | 6    | Пошарпаний |
+| 2        | Кривавий  | 7    | Непривабливий |
+| 3        | Елегантний | 8    | Ліврея |
+| 4        | Засмальцьований  | 9    | Протухла |
+| 5        | Іноземний | 10   | Забруднений |
 
-#### Virtue
+#### Чеснота
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | Амбітний   | 6    | Чесний |
+| 2      | Обережний    | 7    | Скромний    |
+| 3      | Сміливий  | 8    | Милосердний  |
+| 4      | Дисциплінований | 9    | Безтурботний    |
+| 5      | Товариський  | 10   | Толерантний  |
 
-#### Vice
+#### Недолік
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+|   |             |    |              |
+| - | ----------- | -- | ------------ |
+| 1 | Агресивний  | 6  | Лінивий      |
+| 2 | Ображений   | 7  | Нервовий     |
+| 3 | Боягузливий | 8  | Грубий       |
+| 4 | Брехливий   | 9  | Марнославний |
+| 5 | Жадібний    | 10 | Мстивий      |
 
-#### Reputation
+#### Репутація
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+|   |              |    |             |
+| - | ------------ | -- | ----------- |
+| 1 | Амбітний     | 6  | Нероба      |
+| 2 | Хам          | 7  | Дивак       |
+| 3 | Небезпечний  | 8  | Відразливий |
+| 4 | Розважальник | 9  | Поважний    |
+| 5 | Чесний       | 10 | Мудрий      |
 
-#### Misfortunes
+#### Нещастя
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+|   |            |      |             |
+| - | ---------- | ---- | ----------- |
+| 1 | Покинутий  | 6    | Ошуканий   |
+| 2 | Залежний   | 7    | Понижений на посаді     |
+| 3 | Шантаж     | 8    | Дискредитований |
+| 4 | Засуджений | 9    | Відреченний    |
+| 5 | Проклятий  | 10   | Вигнаний      |
 
 <p></p>
 
-## Starting Gear (d20)
+## Стартове спорядження (к20)
 
-#### Armor
+#### Броня
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Нічого  | Бригантина | Кольчуга | Лати |
 
-#### Helmets & Shields
+#### Шоломи та щити
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       Нічого        | Шолом | Щит | Шолом та Щит |
 
-#### Weapons
+#### Зброя
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: |------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Кинджал, Дубина, Посох  | Меч, Булава, Сокира  | Лук, Арбалет, Праща  | Алебарда, Бойовий молот, Бойова сокира |
 
-#### Expeditionary Gear
+#### Експедиційне спорядження
 
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+|      |                              |      |                    |      |                |      |                  |
+| ---- | ---------------------------- | ---- | ------------------ | ---- | -------------- | ---- | ---------------- |
+| 1    | Повітряний міхур             | 6    | Масло для вогню    | 11   | Кайдани        | 16   | Мотузка (25фт)   |
+| 2    | Антитоксин                   | 7    | Гак для захоплення | 12   | Кирка          | 17   | Оберіг від духів |
+| 3    | Візок (+4 слота, громіздкий) | 8    | Великий мішок      | 13   | Жердина (10фт) | 18   | Підзорна труба   |
+| 4    | Ланцюг (10фт)                | 9    | Велика пастка      | 14   | Шків           | 19   | Трутовик         |
+| 5    | Вербова лоза                 | 10   | Відмички           | 15   | Репелент       | 20   | Тоя              |
 
-#### Tools
+#### Інструменти
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+|      |          |      |                |      |                   |      |          |
+| ---- | -------- | ---- | -------------- | ---- | ----------------- | ---- | -------- |
+| 1    | Міхи     | 6    | Каструлі       | 11   | Мастило           | 16   | Сітка    |
+| 2    | Відро    | 7    | Лом            | 12   | Молоток           | 17   | Пила     |
+| 3    | Трибола  | 8    | Дриль (ручний) | 13   | Пісочний годинник | 18   | Герметик |
+| 4    | Крейда   | 9    | Вудочка        | 14   | Напилок по металу | 19   | Лопата   |
+| 5    | Стамеска | 10   | Клей           | 15   | Цвяхи             | 20   | Щипці    |
 
-#### Trinkets
+#### Дрібнички
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+|      |                      |      |                  |      |                 |      |                 |
+| ---- | -------------------- | ---- | ---------------- | ---- | --------------- | ---- | --------------- |
+| 1    | Пляшка               | 6    | Горн             | 11   | Дзеркало        | 16   | Мило            |
+| 2    | Колода карт          | 7    | Пахощі           | 12   | Парфуми         | 17   | Губка           |
+| 3    | Набір кісток         | 8    | Інструмент       | 13   | Перо та чорнило | 18   | Смоляний горщик |
+| 4    | Фарба для обличчя    | 9    | Лінза            | 14   | Мішечок солі    | 19   | Шпагат          |
+| 5    | Фальшиві коштовності | 10   | Мармурові кульки | 15   | Дзвіночок       | 20   | Свисток         |
 
-#### 																		Bonus Item (roll on table indicated)
+#### 																		Бонусний предмет (киньте по вказаній таблиці)
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Інструмент або  Дрібничка | Експедиційне спорядження | Броня або Зброя | Книга заклинань |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Книга заклинань (к100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -429,571 +430,572 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Список спорядження (Ціни в золотих)
 
-#### Armor
+#### Броня
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Щит (+1 Броня)            |10   |
+|Шолом (+1 Броня)            |10   |
+|Гамбезон (+1 Броня)          |15   |
+|Бригантина (1 Броня, громіздка)  |20   |
+|Кольчуга (2 Броня, громіздка)   |40   |
+|Лати (3 Броня, громіздка)       |60   |
 
-#### Weapons
+#### Зброя
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|Кинджал, дубина, серп, посох тощо. (к6 шкоди)            |5    |
+|Спис, меч, булава, сокира, ціпок тощо. (к8 шкоди)           |10   |
+|Алебарда, бойовий молот, довгий меч тощо. (к10 шкоди, громіздка)  |20   |
+|Праща (к4 шкоди)                                          |5    |
+|Лук (к6 шкоди, громіздка)                                     |20   |
+|Арбалет (к8 шкоди, громіздка)                                |30   |
 
-#### Gear & Tools
+#### Спорядження та інструменти
 
 | |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|-----------------------------|-----|-----------------------------------|----------|
+|Повітряний міхур             |5    |Велика пастка                      |20        |
+|Міхи                         |10   |Велика Губка                       |5         |
+|Спальник                     |5    |Лінза                              |10        |
+|Книга                        |50   |Відмички                           |25        |
+|Відро                        |5    |Кайдани                            |10        |
+|Трибола                      |10   |Напилок по металу                  |5         |
+|Візок (+4 слота, громіздкий) |30   |Дзеркало                           |5         |
+|Ланцюг (10ft)                |10   |Мул (+6 слотів, повільний)         |30        |
+|Крейда                       |1    |Сітка                              |10        |
+|Стамеска                     |5    |Сумка з дубленої шкіри             |5         |
+|Каструлі                     |10   |Кирка                              |10        |
+|Лом                          |10   |Шків                               |10        |
+|Дриль (ручний)               |10   |Жердина (10фт)                     |5         |
+|Фарба для обличчя            |10   |Перо та чорнило                    |10        |
+|Масло для вогню              |10   |Пайок (на три дня)                 |10        |
+|Вудочка                      |10   |Мотузка (25фт)                     |5         |
+|Мармурові кульки             |5    |Пила                               |5         |
+|Клей                         |5    |Sack                               |5         |
+|Мастило                      |10   |Лопата                             |5         |
+|Гак для захоплення           |25   |Мило                               |1         |
+|Молоток                      |5    |Шип                                |1         |
+|Свята вода                   |25   |Шиповане взуття                    |5         |
+|Горн                         |10   |Підзорна труба                     |40        |
+|Кінь (+4 слота)              |75   |Смола                              |10        |
+|Пісочний годинник            |50   |Намет (вміщає 2 людей, громіздкий) |20        |
+|Пахощі                       |10   |Факел                              |1         |
+|Драбина (громіздкий, 10фт)   |10   |Віз (+8 слотів, повільний)         |200    |
+|Ліхтар і мастило             |10   |Тоя                                |10        |
 
 <p></p>
 
-## Optional Gear Packages
+## Опціональні набори спорядження
 
-#### Cleric
+#### Клірик
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Бойовий молот (к10, громіздка)           |
+| Кольчуга (2 Броня, громіздка)        |
+| Рукавиці (+1 Броня)              |
+| Заточений клинок (к6)              |
+| Святий символ (_Ward_ раз на день) |
+| Плащ Ордену               |
 
-#### Dowser
+#### Лозохідець
 
-|                                           |
-|-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+|                                                  |
+|--------------------------------------------------|
+|Серп (к6)                                         |
+|Клаптевий дублет (+1 Броня)                       |
+|Вербова лоза                                      |
+|Кам'яне око (_Sense_ якщо знаходить в свіжій воді)|
+|Зношена мапа                                      |
+|Підзорна труба                                    |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### Дварф
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|Колючий корінь (к6)                      |
+|Кольчуга з шишок (1 Броня)               |
+|Шпатель                                  |
+|Банка з лісовими мурахами                |
+|Отруйні гриби                            |
+|Ручний дриль                             |
 
-#### Fighter
+#### Ельф
+
+||
+|-----------------------------------------|
+|Елегантний меч (к8)                      |
+|Рекурсивний лук (d8)                     |
+|Позолочений одяг (1 Броня)               |
+|Книга заклинань (_Charm_ або _Detect Magic_)   |
+|Золота флейта                            |
+|Повітряний міхур                         |
+
+#### Боєць
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Глефа (к10, громіздка)                 |
+|Ятаган (к8)                            |
+|короткий меч (к6)                      |
+|короткий меч (к6)                      |
+|Кисет і люлька                         |
+|Набір гральних кісток                  |
 
-#### Friar
+#### Монах
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|Скіпетр (к6)                   |
+|Оманлива мантія (+1 Броня)     |
+|Кадильниця і свята вода        |
+|Глечик медового вина           |
+|Збірник народних пісень        |
+|Візок (+4 слота, громіздкий)   |
 
-#### Knight
+#### Лицар
 
-|                            |
-| -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+|                                    |
+| ---------------------------------- |
+| Довгий меч (к10 шкоди, громіздкий) |
+| Кольчуга (2 Броня, громіздка)      |
+| Шолом (+1 Броня)                   |
+| Геральдичний накид                 |
+| Кайдани                            |
+| Тонка мотузка                      |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
-
-#### Thief
+#### Знавець магії
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+|Послаблений посох (к8, громіздкий)       |
+|Кинджал (к6)                             |
+|Книга заклинань (випадкове закляття)     |
+|Книга заклинань (випадкове закляття)     |
+|Поношений одяг (приховані кишені)        |
+|Лейкап (2 шт, див. **Реліквії**)         |
 
-#### Ranger
+#### Злодій
+
+||
+|-----------------------------------------|
+|Два кинджала (к6+к6)                     |
+|Куртка з капюшоном (1 Броня)             |
+|Відмички                                 |
+|Трибола                                  |
+|Гак для захоплення                       |
+|Напилок по металу                        |
+
+#### Рейнджер
 
 ||
 |------------------------------------------|
-|Longbow (d8, bulky)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+|Довгий лук (к8, громіздкий)               |
+|Маленька сокира (к6)                      |
+|Шкірянка з підкладкою (1 Броня)           |
+|Велика пастка                             |
+|Бладгаунд &#124; 2 HP, 12 DEX, укус (к6)  |
+|Громовий Ріг                              |
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Правила
+### Здібності
+Кожна з трьох **здібностей** використовується за різних обставин (див. **РятКидки** нижче).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Сила (STR)**: Використовується для РятКидків, що вимагають фізичної сили, наприклад, підняття воріт, згинання прутів, протистояння отруті тощо.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Спритність (DEX)**: Використовується для РятКидків, що вимагають координації, швидкості та рефлексів, таких як ухилення, лазіння, підкрадання, балансування і т.д.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Сила волі (WIL)**: Використовується для РятКидків, щоб переконати, обдурити, допитати, залякати, зачарувати, спровокувати, маніпулювати заклинаннями тощо.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### Рятівні кидки
+РятКидки - це кидок, щоб уникнути поганих наслідків ризикованих рішень та обставин. ПГ кидає к20 на відповідний показник здібності. Якщо результат дорівнює або менший за цей показник, то вони проходять перевірку. В іншому випадку, вони зазнають поразки. 1 - це завжди успіх, а 20 - це завжди провал.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Беа зустрічає групу добре озброєних гоблінів, які стоять на варті перед входом до тунелю. ЇЇ гравець ретельно прокладає маршрут, розуміючи, що з її 13 DEX найкращим варіантом буде прокрастися повз охоронців. Вона кидає d20, і в результаті випадає 10 - успіх!_
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### Зцілення
+кілька хвилин на відпочинку і ковток води відновлює втрачені HP(Hit protection), але залишає групу вразливою. Втрата здібностей (див. **Критичні ушкодження**) зазвичай може бути відновлена за допомогою тижневого відпочинку під керівництвом цілителя або іншого відповідного способу. Деякі з цих послуг є безкоштовними, в той час як магічні або більш ефективні засоби відновлення можуть бути платними.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Виснаження та втома
+ПГ стає **виснаженим** коли позбавлений життєво важливих потреб (наприклад, їжі або відпочинку), і не може відновити HP або показники здібностей. Кожен, хто не задовольняв свої  потреби більше доби, додає до свого інвентарю **Втому**, по одній за кожен день. Кожна втома займає один слот і триває до тих пір, поки він не зможе відновити сили (наприклад, відпочити всю ніч у безпечному місці). ПГ також можуть отримувати втому, **виконуючи заклинання** або через події в сюжеті.
 
-### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Броня
+Перед тим, як обчислити пошкодження HP, відніміть значення **Броні** цілі від результату кидків шкоди. Щити та подібні обладунки дають бонус до захисту (наприклад, +1 Броні), але тільки поки цей предмет екіпірований.  
+Ніхто не може мати більше ніж 3 броні.  
+Щити, рукавиці та шоломи можуть надавати додаткові бонуси відповідно до їх використання.
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Реакції
+Коли ПГ стикаються з NPC, реакція якого на партію не очевидна, Наглядач може кинути 2к6 і звернутися до наступної таблиці, щоб визначити його настрій:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Ворожий | Насторожений | Зацікавлений | Добрий | Готовий допомогти |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Бойовий дух
+Вороги повинні пройти РятКидок сили волі (WIL), щоб уникнути спроби втечі, коли вони перший раз зазнають втрат, і знову, коли вони втрачають половину своєї чисельності. Деякі групи можуть використовувати показник WIL свого лідера замість власного. Вороги-одинаки повинні робити РятКидок, коли у них залишилося 0 HP. Бойовий дух не застосовується на персонажів гравців.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Найманці
+Персонажів можуть наймати **найманців** для допомоги в експедиціях. Щоб створити найманця, киньте 3к6 для кожного показника здібностей, потім дайте йому 1к6 HP і просту зброю (к6), потім зробіть кидки по таблиці [**Створення персонажа**] (#створення-персонажа), щоб зробити найманця більш живим. Послуги  найманці коштують від 1 до 3 золотих на день, або частину від любого скарбу, що здобуде партія.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Багатство та скарби
+Найпоширенішою монетою є золотий гріш (gp), який дорівнює 10 срібним (sp) і 100 мідним (cp).
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Скарби зазвичай дуже цінні, об'ємні і рідко бувають корисним окрім як своєю вартістю. Вони можуть бути приманкою, що веде персонажів в екзотичні і навіть небезпечні місця, що часто знаходяться під захистом страшних ворогів.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Села, фортеці та порти обмінюються та торгують скарбами, базуючись на цінності та рідкості цього предмету чи товару.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Магія
+**Книга заклинань** містить одне заклинання і займає один слот. Її не можна переписати або створити; натомість їх можна знайти в таких місцях, як гробниці, підземелля та маєтки.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Іноді книги заклинань мають незвичайні властивості або обмеження, наприклад, виділяють неприємний або неземний запах, коли їх відкривають, володіють вродженим інтелектом або читаються тільки при місячному світлі.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Книги заклинань привертають увагу тих, хто шукає в них таємну силу, і вважається небезпечним демонструвати їх відкрито.
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Свитки** схожі на книги заклять, одначе:
+- Вони не займають місце в інвентарі.
+- Вони не викликають втому.
+- Вони зникають після використання.
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### Виконання заклинань
+Будь хто може виконати заклинання тримаючи обома руками книгу заклинань і зачитуючи його текст в голос. Після цього необхідно додати Втому в інвентар, що буде займати 1 слот. Маючи час і перебуваючи в безпеці ПГ може _покращити_ ефект заклинання (наприклад подіяти на декілька цілей, мати сильніший ефект і.т.д.) без якихось додаткових витрат. Якщо персонаж виснажений або в небезпеці, Спостерігач може попросити його пройти перевірку сили волі (WIL), щоб уникнути якихось негативних наслідків від виконання заклинання. Наслідки невдалої спроби виконання заклинання є співмірними з результатом, що очікувався, і можуть призвести до отримання додаткової втоми, знищення книги заклинання, каліцтва, або навіть смерті.
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Реліквії
+**Реліквії** - це предмети пронизані магічними силами або заклинаннями. Їх використання не додає Втому. Реліквії зазвичай мають обмежену кількість використань, та умови їх перезаряджання. Ось декілька прикладів:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Медова застібка** , 3 заряди. Іржаве кільце, яке зменшує носія до 6 дюймів у висоту. Перезарядження: помістіть у чашку з маточним молочком розміром з наперсток.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Соколиний друг** , 1 заряд. Паличка у формі болта, що несе заклинання _Haste_. Перезарядження: вистрілити з арбалета та повернути.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Посох тиші** , 1 заряд. Цей почорнілий жезл тимчасово вимикає всю магію в межах 50 футів. Перезарядження: Осяйте світлом повного місяця.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Лейкап** , Одноразовий. Кожен, хто ковтає цей гриб із зеленими крапками, втрачає Втому, але потім повинен зробити РятКидок сили волі (WIL), щоб уникнути звикання. Невдача робить ПГ виснаженим і нездатним зосередитися, доки він не зможе з’їсти ще один гриб, забезпечуючи лише коротке вгамування його залежності.
 
-## Combat
+## Бій
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Раунди
+Гра зазвичай проходить без сурового підрахунку часу. В бою, або в умовах коли хронометраж може допомогти, використовуйте раунди, щоб відстежувати, що коли трапилося. **Раунд** триває приблизно 10 секунд і складається з ходів.
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Дії
+На своєму ходу, персонажі можуть переміщуватися на дистанцію до 40 футів і зробити ще одну дію. Це може бути виконання заклинання, атака, ще одне переміщення, або інша розумна дія.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Кожного раунду, гравці оголошують, що вони роблять, до того як кидати кістки. Якщо персонаж намагається зробити щось ризикове, то Наглядач може попросити зробити необхідний РятКидок гравця або NPC.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
-
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Ходи
+Наглядач опише найбільш ймовірні дії які виконають NPC та монстри. Перед початком бою всі ПГ мають пройти перевірку спритності (DEX), щоб ходити перед своїм опонентом.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Приклад
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+ _Беатріс випадково наткнулася на сліди масивного лісового троля. Для того, щоб зробити свій хід перед тролем - вона робить перевірку спритності (DEX). Вона її провалює і тому троль атакує першим._
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Атака та Шкода
+Нападник робить кидок кісток шкоди своєї зброї і від результату відіймає показник броні цілі, і потім відіймає залишок від HP опонента. Беззбройна атака завжди наноситься 1к4 шкоди.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<details markdown="block">
+  <summary>
+Приклад
+ </summary>
+ _Лісний троль гарчить, замахуючись своєю дубиною на Беатріс, що має 5HP. Дубина наносить 1к10 шкоди і в Наглядача випадає 4. Беатріс має шкіряну броню, тож віднімаємо 1 від шкоди, і в результаті в неї залишається 2 HP._
+</details>
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+### Декілька Нападників
+Якщо декілька нападників атакують одну ціль, то необхідно кинути всі кістки шкоди і залишити один найбільший результат.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Модифікатори атаки
+Якщо атакувати зі слабкої позиції (наприклад по цілі за укриттям, або маючи зв'язані руки), то атака вважається **ослабленою** і нападник має кидати 1к4 шкоди незважаючи на кістку шкоди зброї.
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Якщо атакувати із сильної позиції (наприклад по безпомічним цілям, або через сміливий маневр), то така атака є **підсиленою**, що дозволяє кинути 1к12 шкоди, замість звичайної кістки.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### Подвійна Зброя
+Якщо нападник тримає дві зброї одночасно - киньте обидві кістки і залиште єдиний, найбільший, результат.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+### Вибух
+Атаки з характеристикою **вибух** вражає всі цілі в зазначеній області, і для кожного ураженого персонажа кістки шкоди кидаються окремо. Вибух - це будь-що, від вибухів до потужних розколюючих ударів і падіння метеорита. Якщо ви не впевнені, скільки цілей може бути уражено, киньте відповідну кістку шкоди, щоб отримати результат.
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Критична Шкода
+Пошкодження, яке знижує HP цілі нижче нуля, зменшує силу (STR) цілі на кількість, що залишилася. Після цього вона повинна зробити РятКидок сили (STR), щоб уникнути **критичної шкоди**. Крім того, деякі вороги мають особливі здібності або ефекти, які спрацьовують, коли їхня ціль провалює цей РятКидок.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+Будь-який ПГ, який зазнав критичних пошкоджень, не може робити нічого, окрім як повзти, хапаючись за життя. Якщо йому надати допомогу та відпочинок, він стабілізується. Якщо ж його залишити без лікування, то він помре протягом години.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Втрата Показників Характеристик
+Якщо сила (STR) ПГ зменшується до 0, він помирає. Якщо його спритність (DEX) зменшується до 0, він стає паралізованим. Якщо його сила волі (WIL) зменшується до 0, він втрачає глузд.
+Повна втрата спритності (DEX) і сили волі (WIL) робить персонажа нездатним діяти до тих пір, поки вони не відновляться через тривалий відпочинок або за допомогою надзвичайних засобів.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Шрами
+Коли шкода зменшує HP персонажа рівно до 0, вони іноді змінюються безповоротно. Щоб дізнатися більше, перегляньте таблицю [**Шрамів**](#Шрами).
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+### Непритомність та Смерть
+Коли персонаж помирає, гравець може створити нового персонажа або взяти під контроль найманця. Новий персонаж негайно приєднуються до партії, щоб зменшити час простою.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+### Загони
+Великі групи подібних комбатантів, що воюють разом, розглядаються як один **загін**. Коли загін отримує критичні пошкодження, він відступає або значно ослаблюється. Коли його сила досягає 0, він знищується.
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+Атаки на загони поодинці є **ослабленими** (за винятком пошкодження від вибуху).
+Атаки загонів по одиничним цілям є **підсиленими** та завдають вибухової шкоди.
+
+### Відступ
+Втеча з небезпечної ситуації завжди вимагає успішного РятКидка Спритності (DEX), а також безпечного місця для втечі.
+
+### Шрами
+Атака, що зменшує HP персонажа рівно до 0, є унікальною. Подивіться результат у таблиці нижче базуючись на _загальній_ отриманій шкоді:
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 1    | Перманентний шрам: Киньте 1к6 &#124; 1: Шия, 2: Руки, 3: Око, 4: Груди, 5: Ноги, 6: Вухо. Киньте 1к6. Якщо результат перевищує ваше максимальне значення HP, то використайте його, як ваш новий максимум HP. |
+| 2    | Приголомшливий удар: Ви дезорієнтовані і вас трясе. Опишіть, як ви відновлюєте фокус. Киньте 1к6. Якщо результат перевищує ваше максимальне значення HP, то використайте його, як ваш новий максимум HP. |
+| 3    | Відлупцьований: Ударом вас відправили в політ, після якого ви приземлилися прямо на обличчя, а ваше дихання тепер збите. Ви стаєте виснаженим поки не відпочинете декілька годин, Потім киньте 1к6 і додайте отримане значення до свого максимального HP. |
+| 4    | Зламана кінцівка: Киньте 1к6 &#124; 1-2: Нога, 3-4: Рука, 5: Ребро, 6: Череп. Після загоєння, киньте 2к6. Якщо сума перевищує ваше максимальне значення HP, то використайте її, як ваш новий максимум HP. |
+| 5    | Інфікований: Ви страждаєте від важкої, неприємної інфекції. Коли ви її переможете, киньте 2к6. Якщо сума перевищує ваше максимальне значення HP, то використайте її, як ваш новий максимум HP. |
+| 6    | Змістивша голову рана: Киньте 1к6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Киньте 3к6. Якщо сума перевищує ваш максимальний показник здібності, то використайте її, як ваш новий максимум. |
+| 7    | Скалічене підколінне сухожилля: Ви ледве можете рухатися, поки не отримаєте серйозну допомогу і не відпочинете. Після одужання, киньте 3к6. Якщо сума перевищує ваш максимальний показник спритності (DEX), то використайте її, як ваш новий максимум. |
+| 8    | Втрата слуху: Ви нічого не чуєте, доки не отримаєте надзвичайну допомогу. Незважаючи на це, зробіть перевірку сили волі (WIL). Якщо ви пройшли, збільште свій максимальний сили волі (WIL) на 1к4. |
+| 9    | Переосмислення: Якась прихована частина вашої психіки вирвалася на волю. Киньте 3к6. Якщо сума перевищує ваш максимальний показник сили волі (WIL), то використайте її, як ваш новий максимум. |
+| 10   | Розірваний: Частину вас відірвало, роздробило, або вона стала нефункціональною. Наглядач скаже вам яку саме. Потім, пройдіть перевірку сили волі (WIL). Якщо пройшли - збільште свій максимум сили волі (WIL) на 1к6. |
+| 11   | Смертельна рана: Ви виснажені і не можете виконувати дії. Ви помрете через годину якщо не отримаєте лікування. Після відновлення - киньте 2к6. Прийміть результат як ваш новий максимум HP. |
+| 12   | Приречений: Смерть здавалася дуже близькою, але ви якось вижили. Якщо ваш наступний РятКидок проти критичної шкоди буде проваленим - ви помираєте жахливою смертю. Якщо ви проходите успішно, то киньте 3к6. Якщо сума перевищує ваш максимальний HP, то використайте її, як ваш новий максимум HP. |
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## Bestiary
+## Бестіарій
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**Кореневий гоблін**  
+4 HP, 8 STR, 14 DEX, 8 WIL, спис (к6)
+- Уникають боют, поки не мають переваги (наприклад переваги в кількості).
+- Охороняють свої награбовані скарби до смерті.
+- Винагорода Книга заклинань; Охочі до обміну.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**Людина в капюшоні**  
+12 HP, 9 STR, 12 DEX, 14 WIL, лей-посох (к8), книга заклять (Оберіть одне: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
+- Вартові лісу; культ, який черпає свою силу з лей-ліній, рунних каменів тощо.
+- Критична шкода: висмоктує частину душі жертви (1к4 WIL шкоди).
 
-**Cobblehounds**  
+**Кам'яні-гончі**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+- Нерухомі конструкти зазвичай використовуються як охоронці великих гробниць або артефактів.
+- Не піддаються звичайним методам переконання, але люблять хорошу кістку.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+**Лісний троль**   
+12 HP, 15 STR, 12 DEX, 7 WIL, пазурі та укус(к8+к8 вибух)
+- Дією може відновити втрачені HP.
+- Критична шкода: з ран мішені починають рости мох і гілочки.
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Крижаний Ельф**  
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, кинджал-бурулька (к6), Книга заклинань (Оберіть одне: _Sleep_, _Teleport_, _Detect Magic_)
+- Красиві, аморальні та довгоживучі.
+- Стійкі до більшості видів магії.
 
-**Boggart**  
+**Домовий**  
 3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+- Дикий, волохатий хитрун, який отримує задоволення від дрібних неприємностей.
+- Понад усе цінує реліквії та блискучі дрібнички, але не бажає обмінювати їх на монети.
+- Домові мають імена, які описують їхню справжню природу. Знаючи їхнє справжнє ім'я, можна контролювати домових.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+### Створення монстрів
+Використовуйте наступний шаблон, щоб змоделювати будь-якого складнішого монстра або NPC:
 
-**Name**  
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+**Ім'я**  
+X HP, X Armor, X STR, X DEX, X WIL, Зброя (кX, особливі речі, якості)
+- Привабливий опис зовнішнього вигляду або поведінки
+- Примха, тактика або особливість, що робить цього NPC унікальним
+- Особливий ефект, або наслідок критичної шкоди
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+**Загальні принципи**  
+Показник характеристик: 3 недостатньо, 6 слабкий, 10 середній, 14 заслуговує на увагу, і 18 легендарний. Налаштуйте за потреби.
+- Дайте пересічним істотам 3 HP, витривалим - 6 HP, а серйозним загрозам - 10+ HP.
+- Використовуйте смак і стиль, щоб допомогти їм виділитися. Гравці легше запам'ятають гуманоїда зі свинячим обличчям, який шукає зниклу вівцю, ніж типового гобліна-лучника.
+- Використовуйте критичну шкоду, щоб привернути увагу до загрози або дивацтва будь-якого агресивного NPC.
+- Пам'ятайте, що HP - це **захист від ударів**, а не очки здоров'я. Це міра стійкості, удачі та кмітливості, а не здоров'я.
 
-**Converting from OSR Games**
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+**Конвертація з OSR Games**
+- Дайте 1 HP за HD для більшості істот.
+- Більшість гуманоїдів мають щонайменше 4HP.
+- **Бойовий дух** також може бути використаний як базовий показник.
 
-Some pointers:
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+Декілька порад:
+- Він добре уникає удару? Додай йому HP.
+- Він поглинає шкоду? Дайте йому броню.
+- Він сильний? Дайте йому високий показник сили (**STR**).
+- Він спритний? Дайте йому високий показник спритності (**DEX**).
+- Він харизматичний? Дайте йому високий показник сили волі (**WIL**).
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+Кістка шкоди приблизно така сама, але атака зі зброєю має наносити щонайменше 1к6 шкоди.
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-## 100 Spells
+## 100 Заклинань
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 1    | [Adhere](#adhere)                       | Об'єкт вкритий надзвичайно липким слизом.                    |
+| 2    | [Anchor](#anchor)                       | З ваших рук проростає міцний дріт, який кріпиться до двох точок у межах 50 футів з кожного боку. |
+| 3    | [Animate Object](#animate-object)       | Об'єкт виконує ваші команди, як тільки може.                 |
+| 4    | [Anthropomorphize](#anthropomorphize)   | Тварина на один день набуває людського інтелекту або людської зовнішності. |
+| 5    | [Arcane Eye](#arcane-eye)               | Ви можете бачити через чарівне левітуюче око, яке літає навколо за вашою командою. |
+| 6    | [Astral Prison](#astral-prison)         | Об'єкт застигає в часі та просторі всередині невразливої кристалічної оболонки. |
+| 7    | [Attract](#attract)                     | Два об'єкти починають притягуватися немов сильні магніти один до одного, коли знаходяться в межах 10 футів один від одного. |
+| 8    | [Auditory Illusion](#auditory-illusion) | Ви створюєте ілюзорні звуки, які, здається, виходять з місця, що ви оберете. |
+| 9    | [Babble](#babble)                       | Істота повинна голосно і чітко повторювати все, що ви думаєте. Інакше вона німа. |
+| 10   | [Bait Flower](#bait-flower)             | З землі проростає рослина, яка випромінює запах гниючої плоті. |
+| 11   | [Beast Form](#beast-form)               | Ти і твоє майно перетворюєтесь на звичайну тварину.            |
+| 12   | [Befuddle](#befuddle)                   | Обрана вами істота не здатна формувати нові короткочасні спогади протягом дії заклинання. |
+| 13   | [Body Swap](#body-swap)                 | Ти міняєшся тілами з істотою, до якої торкаєшся. Якщо одне тіло помирає, помирає й інше. |
+| 14   | [Charm](#charm)                         | Істота, яку ви бачите, ставиться до вас як до друга.           |
+| 15   | [Command](#command)                     | Ціль підкоряється одній команді з трьох слів, яка не завдає їй шкоди. |
+| 16   | [Comprehend](#comprehend)               | Ви починаєте вільно говорити всіма мовами на короткий час.     |
+| 17   | [Cone of Foam](#cone-of-foam)           | Щільна піна бризкає з вашої руки, покриваючи ціль.             |
+| 18   | [Control Plants](#control-plants)       | Рослини та дерева поблизу підкоряються вам і отримують можливість рухатися в повільному темпі. |
+| 19   | [Control Weather](#control-weather)     | Ви можете змінювати тип погоди за власним бажанням, але ніяк інакше її не контролюєте. |
+| 20   | [Cure Wounds](#cure-wounds)             | Відновіть 1к4 сили (STR) за день істоті, до якої ви можете доторкнутися.         |
+| 21   | [Deafen](#deafen)                       | Всі істоти поблизу втрачають слух.                             |
+| 22   | [Detect Magic](#detect-magic)           | Ви можете бачити або чути магічні аури поблизу.                |
+| 23   | [Disassemble](#disassemble)             | Будь-яка частина вашого тіла може бути від'єднана і знову приєднана за бажанням, не завдаючи болю і не пошкоджуючи її. Ви все ще можете ними керувати. |
+| 24   | [Disguise](#disguise)                   | Ви можете змінювати зовнішність одного персонажа за власним бажанням, допоки він залишається гуманоїдом. Спроби дублювати інших персонажів будуть виглядати моторошно. |
+| 25   | [Displace](#displace)                   | Об'єкт здається далі на відстань до 15 футів від свого фактичного положення. |
+| 26   | [Earthquake](#earthquake)               | Земля починає сильно трястися. Споруди можуть зазнати пошкоджень або обвалитися. |
+| 27   | [Elasticity](#elasticity)               | Ваше тіло може розтягуватися до 10 футів.                      |
+| 28   | [Elemental Wall](#elemental-wall)       | Пряма стіна льоду або вогню завдовжки 50 футів і заввишки 10 футів здіймається з землі. |
+| 29   | [Filch](#filch)                         | Видимий предмет телепортується до ваших рук.                   |
+| 30   | [Flare](#flare)                         | Яскрава куля енергії випускає в небо промінь світла, який вказує на ваше місцезнаходження друзям чи ворогам. |
+| 31   | [Fog Cloud](#fog-cloud)                 | Густий туман розходиться від вас.                              |
+| 32   | [Frenzy](#frenzy)                       | Істота неподалік вибухає жагою насильства.                     |
+| 33   | [Gate](#gate)                           | Відкривається портал у випадкову площину.                      |
+| 34   | [Gravity Shift](#gravity-shift)         | Ви можете змінювати напрямок гравітації, але тільки для себе.  |
+| 35   | [Greed](#greed)                         | Істота відчуває непереборне бажання володіти видимим предметом на свій вибір. |
+| 36   | [Haste](#haste)                         | Швидкість пересування збільшується втричі.                     |
+| 37   | [Hatred](#hatred)                       | Істота відчуває глибоку ненависть до іншої істоти або групи і бажає їх знищити. |
+| 38   | [Hear Whispers](#hear-whispers)         | Ви можете чітко чути слабкі звуки.                             |
+| 39   | [Hover](#hover)                         | Об'єкт парить без тертя на висоті 2 футів над землею. Він може утримувати до одного гуманоїда. |
+| 40   | [Hypnotize](#hypnotize)                 | Істота входить у транс і чесно відповість на одне запитання «так» або «ні», яке ви йому задасте. |
+| 41   | [Icy Touch](#icy-touch)                 | Товстий шар льоду, радіусом до 10 футів, розходиться по поверхні, до якої ви торкаєтеся. |
+| 42   | [Identify Owner](#identify-owner)       | Над об'єктом, якого ви торкаєтесь, з'являються літери з іменами власників об'єкта, якщо такі є. |
+| 43   | [Illuminate](#illuminate)               | Плаваюче світло рухається за вашою командою.                   |
+| 44   | [Invisible Tether](#invisible-tether)   | Два об'єкти в межах 10 футів один від одного не можуть бути переміщені на відстань більше 10 футів один від одного. |
+| 45   | [Knock](#knock)                         | Розташований поруч звичайний або магічний замок голосно відмикається.             |
+| 46   | [Leap](#leap)                           | Ви стрибаєте вгору на 10 футів, один раз.                      |
+| 47   | [Liquid Air](#liquid-air)               | Повітря навколо вас стає придатним для плавання.               |
+| 48   | [Magic Dampener](#magic-dampener)       | Ефективність усіх магічних ефектів поблизу зменшується вдвічі. |
+| 49   | [Manse](#manse)                         | Міцний, мебльований котедж з'являється на 12 годин. Ви можете дозволити або заборонити вхід до нього за власним бажанням. |
+| 50   | [Marble Craze](#marble-craze)           | Ваші кишені наповнені кульками, і вони будуть знову наповнюватися кожні 30 секунд. |
+| 51   | [Masquerade](#masquerade)               | Зовнішність і голос персонажа стають ідентичними зовнішності та голосу персонажа, якого ви торкаєтесь. |
+| 52   | [Miniaturize](#miniaturize)             | Істота, до якої ви торкаєтесь, зменшується до розміру миші.    |
+| 53   | [Mirror Image](#mirror-image)           | З'являється ілюзорний дублікат вас самих, який знаходиться під вашим контролем. |
+| 54   | [Mirrorwalk](#mirrorwalk)               | Дзеркало стає воротами до іншого дзеркала, в яке ви сьогодні дивилися. |
+| 55   | [Multiarm](#multiarm)                   | Ви тимчасово отримуєте додаткову руку.                         |
+| 56   | [Night Sphere](#night-sphere)           | Перед вами з'являється сфера темряви шириною 50 футів, що відтворює нічне небо. |
+| 57   | [Objectify](#objectify)                 | Ви стаєте будь-яким неживим предметом розміром від рояля до яблука. |
+| 58   | [Ooze Form](#ooze-form)                 | Ви стаєте живим желе.                                          |
+| 59   | [Pacify](#pacify)                       | Істота поруч з вами відчуває огиду до насильства.              |
+| 60   | [Phobia](#phobia)                       | Істота поблизу лякається об'єкта за вашим вибором.             |
+| 61   | [Pit](#pit)                             | У землі відкривається яма 10 футів завширшки і 10 футів завглибшки.           |
+| 62   | [Primal Surge](#primal-surge)           | Істота швидко еволюціонує в майбутню версію свого виду.        |
+| 63   | [Push/Pull](#push/pull)                 | Об'єкт будь-якого розміру тягнеться прямо до вас або відштовхується прямо від з силою однієї людини. |
+| 64   | [Raise Dead](#raise-dead)               | Скелет повстає з-під землі, щоб служити вам. Він неймовірно тупий і може виконувати лише прості накази. |
+| 65   | [Raise Spirit](#raise-spirit)           | Дух сусіднього трупа з'являється і відповідає на 1 питання.    |
+| 66   | [Read Mind](#read-mind)                 | Ви можете чути поверхневі думки істот, що перебувають поблизу. |
+| 67   | [Repel](#repel)                         | Два об'єкти починають відштовхуються немов сильні магніти один до одного, коли знаходяться в межах 10 футів один від одного. |
+| 68   | [Scry](#scry)                           | Ви можете бачити очима істоти, до якої доторкнулися сьогодні.. |
+| 69   | [Sculpt Elements](#sculpt-elements)     | Неживий матеріал поводиться як глина у ваших руках.            |
+| 70   | [Sense](#sense)                         | Виберіть один вид предмета (ключ, золото, стріла, глечик тощо). Ви можете відчувати найближчий предмет цього виду. |
+| 71   | [Shield](#shield)                       | Істота, до якої ви доторкнулися, отримує захист від звичайних атак на одну хвилину. |
+| 72   | [Shroud](#shroud)                       | Істота, до якої ви торкаєтесь, стає невидимою, допоки вона не ворухнеться.           |
+| 73   | [Shuffle](#shuffle)                     | Дві істоти, яких ви бачите, миттєво міняються місцями.         |
+| 74   | [Sleep](#sleep)                         | Істота, яку ви бачите, впадає в легкий сон.                    |
+| 75   | [Slick](#slick)                         | Всі поверхні в радіусі 30 футів стають надзвичайно слизькими.  |
+| 76   | [Smoke Form](#smoke-form)               | Ваше тіло стає живим димом, який ви можете контролювати.       |
+| 77   | [Sniff](#sniff)                         | Ви можете відчути навіть найслабші нотки запахів.              |
+| 78   | [Snuff](#snuff)                         | Будь-яке джерело звичайного світла, яке ви бачите, миттєво згасає. |
+| 79   | [Sort](#sort)                           | Неживі об'єкти сортуються за заданими вами категоріями.        |
+| 80   | [Spectacle](#spectacle)                 | З’являється явно фальшива, але вражаюча ілюзія на ваш вибір під вашим контролем. Він може бути розміром із палац, рухатися і видавати звук. |
+| 81   | [Spellsaw](#spellsaw)                   | Лезо, що обертається, вилітає з ваших грудей, розчищаючи будь-яку рослинність на своєму шляху. Для всього іншого воно абсолютно безпечне. |
+| 82   | [Spider Climb](#spider-climb)           | Ви можете лазити по поверхнях, як павук.                       |
+| 83   | [Summon Cube](#summon-cube)             | Раз на секунду ви можете викликати або прогнати куб землі шириною 3 фути. Нові кубики повинні кріпитися до землі або до інших кубиків. |
+| 84   | [Swarm](#swarm)                         | Ви стаєте зграєю ворон, щурів або піраній. Вам можуть завдати шкоди лише вибухові атаки. |
+| 85   | [Telekinesis](#telekinesis)             | Ви можете подумки перемістити 1 предмет вагою до 60 фунтів.    |
+| 86   | [Telepathy](#telepathy)                 | Дві істоти можуть чути думки один одного, незалежно від того, як далеко вони знаходяться один від одного. |
+| 87   | [Teleport](#teleport)                   | Об'єкт або людина, яку ви бачите, переміщується з одного місця в інше в радіусі 50 футів. |
+| 88   | [Target Lure](#target-lure)             | Об'єкт, до якого ви доторкнулися, стає ціллю будь-якого найближчого заклинання.  |
+| 89   | [Thicket](#thicket)                     | Зарості дерев і густого чагарнику шириною до 50 футів проростають несподівано. |
+| 90   | [Summon Idol](#summon-idol)             | Різьблена кам'яна статуя розміром з мула піднімається з землі. |
+| 91   | [Time Control](#time-control)           | Час у 50-футовій бульбашці сповільнюється або пришвидшується на 10% протягом 30 секунд. |
+| 92   | [True Sight](#true-sight)               | Ви бачите крізь усі довколишні ілюзії.                         |
+| 93   | [Upwell](#upwell)                       | З'являється джерело морської води.                             |
+| 94   | [Vision](#vision)                       | Ви повністю контролюєте, що істота бачить.                     |
+| 95   | [Visual Illusion](#visual-illusion)     | Німа, нерухома ілюзія, розміром з кімнату з'являється за вашим вибором. |
+| 96   | [Ward](#ward)                           | На землі з'являється сріблясте коло 50 футів у діаметрі. Виберіть один вид, що не може його перетнути. |
+| 97   | [Web](#web)                             | Твої зап'ястя стріляють товстою павутиною.                     |
+| 98   | [Widget](#widget)                       | Перед вами з'являється примітивна версія намальованого інструменту або предмета, яка зникає через короткий проміжок часу. |
+| 99   | [Wizard Mark](#wizard-mark)             | Ваш палець може вистрілити струменем фарби кольору вогню. Ця фарба видима лише вам, і її можна побачити на будь-якій відстані, навіть крізь тверді предмети. |
+| 100  | [X-Ray Vision](#x-ray-vision)           | Ви можете бачити крізь стіни, бруд, одяг тощо.                 |
 
-[back to index](#index)
+[на початок](#index)
 <p></p>
 
-# Rules Summary
+# Короткий огляд правил
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+**Дії**  
+У свій хід персонаж може переміщатися на відстань до 40 футів і виконувати одну дію. Дії можуть включати в себе використання заклинання, атаку, другий хід або інші розумні дії. Дії, атаки та пересування відбуваються одночасно. Щоразу, коли черговість ходів не визначена, гравці повинні зробити перевірку вправності (DEX), щоб перевірити, чи ходять вони раніше за своїх ворогів.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+**Відступ** з небезпечної ситуації завжди вимагає успішної перевірки спритності (DEX), а також безпечного місця, куди можна втекти.
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:** Persuasion, intimidation & magic.
+**ЗДІБНОСТІ***
+**Сила (STR):** М'язи, доблесть і стійкість.
+**Спритність (DEX):** Ухиляння, підкрадання та рефлекси.
+**Сила волі (WIL):** Переконання, залякування та магія.
 
-**SAVES**
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+**РятКидки / Перевірки**
+- Киньте к20 рівний або менший показнику характеристики.
+- 1 завжди успіх, 20 завжди провал.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**Захист від ударів**  
+**HP** вказує на здатність персонажа уникати поранень. Втрачається під час бою і відновлюється після кількох хвилин відпочинку.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+**Інвентар**  
+Персонаж має 10 слотів для інвентарю: чотири на тілі та шість у рюкзаку (який діє як спальний мішок, якщо його спорожнити). Більшість предметів займають один слот, але менші предмети можна складати в пачки. **Громіздкі** предмети займають два слоти, і їх незручно або важко носити з собою.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Заповнення всіх десяти слотів для предметів знижує HP до 0. Персонаж не може нести більше, ніж дозволяє його інвентар, хоча вози та коні можуть збільшити кількість слотів.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Виснаження**  
+**Виснажені** персонажі не можуть відновлювати HP. Якщо виснаження триває довше ніж день - додайте одну **Втому** в інвентар. Втома займає один слот і зберігається поки персонаж не відпочине в безпеці. Ефект втоми може накопичуватися.
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+**Зцілення**  
+Кілька хвилин відпочинку і ковток води відновить втрачені HP, але може залишити групу вразливою. Втрата **здібностей** вимагає тижневого відпочинку та допомоги досвідченого цілителя.
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**Книга заклинань**  
+Книга заклинань містить одне заклинання і займає один слот в інвентарі. Будь-хто може виконувати заклинання, тримаючи книгу заклинань обома руками, і промовляючи його вголос. Виконання заклинання додає **Втому** в інвентар персонажа.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+Маючи час і перебуваючи в безпеці ПГ може _покращити_ ефект заклинання. Якщо персонаж виснажений або в небезпеці, додаткова перевірка сили волі (WIL) може знадобитися, щоб уникнути негативних наслідків.
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+**Бій**  
+Нападник робить кидок кісток шкоди своєї зброї і від результату відіймає показник броні цілі, і потім відіймає залишок від HP опонента.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Перед тим, як обчислити шкоду HP, від результату кидка шкоди відніміть значення **Броні** цілі. Щити та подібні обладунки дають додатковий захист (наприклад, +1 Броні), але тільки коли вони екіпіровані.
 
-No one can have more than 3 Armor.
+Ніхто не може мати більше ніж 3 броні.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**Беззбройна** атака завжди наноситься 1к4 шкоди. Якщо **декілька нападників** атакують одну ціль, то необхідно кинути всі кістки шкоди і залишити один найбільший результат. Якщо нападник тримає **дві зброї** одночасно - киньте обидві кістки і залиште єдиний, найбільший, результат.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+Якщо атака **ослаблена**, кістка шкоди стає до 1к4, незалежно від зброї. Якщо атака **підсилена**, нападник кидає 1к12. Атаки з характеристикою **вибух** вражає всі цілі в зазначеній області, і для кожного ураженого персонажа кістки шкоди кидаються окремо.
 
-**DAMAGE**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+**Шкода**  
+Коли шкода зменшує HP персонажа рівно до 0, дивись таблицю [**шрамів**](/cairn-srd#scars-1).
  
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
+Пошкодження, яке знижує HP цілі **нижче** нуля, зменшує силу (STR) цілі на кількість, що залишилася. Після цього ціль повинна зробити РятКидок сили (STR), щоб уникнути **критичної шкоди.** Провал виводить персонажа з бою, і може призвести до смерті якщо не подбати про лікування.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+Показник сила (STR) рівний 0 означає **смерть** персонажа. 0 спритності (DEX) - параліч. 0 сили волі (WIL) - втрата глузду.
