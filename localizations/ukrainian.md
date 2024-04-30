@@ -2,5 +2,5 @@
 layout: default
 title: Ukrainian
 parent: Localizations
-redirect_to: https://mrkaktyc.github.io/cairn-ua/
+redirect_to: https://ua.cairnrpg.com
 ---
